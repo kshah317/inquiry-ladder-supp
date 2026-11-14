@@ -1,0 +1,37 @@
+# Wording fixes applied to the English text of DDXPlus before it is shown to any model.
+# Reason: the official English release is machine-translated from French and some value
+# labels are wrong (e.g. "dechirante" = tearing, not "heartbreaking"). Wrong labels would
+# blur the signal for every model equally, but they also add noise we can remove for free.
+# Rule: fix only clear mistranslations / typos; never add clinical information.
+# The French source is given in each comment so a reader can check every change.
+values:
+  V_8:   "Caribbean"            # Caraibes
+  V_10:  "No"                   # N
+  V_11:  "Not applicable"       # NA
+  V_12:  "Yes"                  # O
+  V_61:  "top of the tongue"    # dessus de la langue
+  V_71:  "tearing"              # dechirante   (was: heartbreaking)
+  V_105: "hamstring(R)"         # ischio(D)    (was: ischio jambier(R))
+  V_106: "hamstring(L)"         # ischio(G)
+  V_112: "shooting"             # lancinante   (was: haunting)
+  V_123: "nowhere"              # nulle part
+  V_137: "palate"               # palais       (was: palace)
+  V_154: "distressing"          # penible      (was: tedious)
+  V_161: "tender"               # sensible     (was: sensitive)
+  V_179: "stabbing (like a knife)"  # un coup de couteau (was: a knife stroke)
+  V_180: "pulling"              # un tiraillement (was: tugging)
+  V_183: "heaviness"            # une lourdeur (was: heavy)
+  V_184: "throbbing"            # une pulsation (was: a pulse)
+  V_193: "nauseating"           # ecoeurante   (was: sickening)
+  V_196: "frightening"          # epeurante    (was: scary)
+  V_197: "epigastrium"          # epigastre
+questions:
+  E_40:  "Have you been in contact with someone who has had pertussis (whooping cough)?"   # typo "whoooping"
+  E_146: "Are you taking any new oral anticoagulants (NOACs)?"                              # stray "("
+  E_161: "Have you recently had a loss of appetite or do you get full more quickly than usual?"  # "then usually"
+  E_202: "Do you have whooping cough (coughing fits followed by a 'whoop' on breathing in)?"     # "Does the person have a whooping cough?"
+  E_207: "Do you live in a big city?"                                                       # "in in"
+  E_55:  "Where is the pain located?"                                                       # follow-up of E_53; raw text "Do you feel pain somewhere?" duplicates the parent
+# Display names for conditions (the dataset key is kept for scoring).
+conditions:
+  "Larygospasm": "Laryngospasm"

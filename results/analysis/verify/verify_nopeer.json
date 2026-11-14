@@ -1,0 +1,1337 @@
+{
+ "consistency": {
+  "n_per_panel": {
+   "P0": [
+    294,
+    294
+   ],
+   "P1": [
+    294,
+    294
+   ],
+   "P1Q": [
+    294,
+    294
+   ],
+   "P2": [
+    294,
+    294
+   ]
+  },
+  "same_pid_set_all": true,
+  "P0": "all match",
+  "P1": "all match",
+  "P1Q": "all match",
+  "P2": "all match"
+ },
+ "raw_check": {
+  "n_sample": 50,
+  "n_nopeer_calls_in_cache": 4601,
+  "n_matched": 50,
+  "unique_match": 50,
+  "mismatches": [],
+  "rows": [
+   {
+    "panel": "P1Q",
+    "pid": "test:12891",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Pulmonary embolism",
+     85.0
+    ],
+    "stored": [
+     "Pulmonary embolism",
+     85.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2532085939,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1",
+    "pid": "test:105545",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Allergic sinusitis",
+     80.0
+    ],
+    "stored": [
+     "Allergic sinusitis",
+     80.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 4113330951,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1Q",
+    "pid": "test:70135",
+    "agent": 2,
+    "n_matches": 1,
+    "parsed": [
+     "Pneumonia",
+     40.0
+    ],
+    "stored": [
+     "Pneumonia",
+     40.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1329796721,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:2253",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "SLE",
+     40.0
+    ],
+    "stored": [
+     "SLE",
+     40.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 4291036896,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:45965",
+    "agent": 1,
+    "n_matches": 1,
+    "parsed": [
+     "Stable angina",
+     90.0
+    ],
+    "stored": [
+     "Stable angina",
+     90.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2250813025,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:69064",
+    "agent": 1,
+    "n_matches": 1,
+    "parsed": [
+     "Pulmonary embolism",
+     40.0
+    ],
+    "stored": [
+     "Pulmonary embolism",
+     40.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1087096497,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:56681",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "HIV (initial infection)",
+     85.0
+    ],
+    "stored": [
+     "HIV (initial infection)",
+     85.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 27505214,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1Q",
+    "pid": "test:50621",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Influenza",
+     40.0
+    ],
+    "stored": [
+     "Influenza",
+     40.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1599524546,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:31224",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Panic attack",
+     90.0
+    ],
+    "stored": [
+     "Panic attack",
+     90.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 3230141631,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:50473",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Influenza",
+     60.0
+    ],
+    "stored": [
+     "Influenza",
+     60.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 3355332938,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1",
+    "pid": "test:44784",
+    "agent": 2,
+    "n_matches": 1,
+    "parsed": [
+     "Anemia",
+     60.0
+    ],
+    "stored": [
+     "Anemia",
+     60.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 4238138482,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:1290",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Possible NSTEMI / STEMI",
+     65.0
+    ],
+    "stored": [
+     "Possible NSTEMI / STEMI",
+     65.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1079179750,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:5387",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Localized edema",
+     60.0
+    ],
+    "stored": [
+     "Localized edema",
+     60.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 3835585801,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:101562",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Acute rhinosinusitis",
+     90.0
+    ],
+    "stored": [
+     "Acute rhinosinusitis",
+     90.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 936042739,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1Q",
+    "pid": "test:90232",
+    "agent": 1,
+    "n_matches": 1,
+    "parsed": [
+     "Panic attack",
+     75.0
+    ],
+    "stored": [
+     "Panic attack",
+     75.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1093071912,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:44575",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Anemia",
+     95.0
+    ],
+    "stored": [
+     "Anemia",
+     95.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 230021381,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1",
+    "pid": "test:60881",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Influenza",
+     65.0
+    ],
+    "stored": [
+     "Influenza",
+     65.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 3969257407,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:56132",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Pulmonary embolism",
+     65.0
+    ],
+    "stored": [
+     "Pulmonary embolism",
+     65.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1566262340,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:81882",
+    "agent": 2,
+    "n_matches": 1,
+    "parsed": [
+     "Acute rhinosinusitis",
+     45.0
+    ],
+    "stored": [
+     "Acute rhinosinusitis",
+     45.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2468996350,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1Q",
+    "pid": "test:94766",
+    "agent": 1,
+    "n_matches": 1,
+    "parsed": [
+     "Panic attack",
+     65.0
+    ],
+    "stored": [
+     "Panic attack",
+     65.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 985994001,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:3298",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "SLE",
+     10.0
+    ],
+    "stored": [
+     "SLE",
+     10.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1436386889,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:93467",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "SLE",
+     30.0
+    ],
+    "stored": [
+     "SLE",
+     30.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 596166727,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:84935",
+    "agent": 2,
+    "n_matches": 1,
+    "parsed": [
+     "GERD",
+     95.0
+    ],
+    "stored": [
+     "GERD",
+     95.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2359298389,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1",
+    "pid": "test:51475",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Whooping cough",
+     40.0
+    ],
+    "stored": [
+     "Whooping cough",
+     40.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 3329485678,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:351",
+    "agent": 2,
+    "n_matches": 1,
+    "parsed": [
+     "Acute rhinosinusitis",
+     95.0
+    ],
+    "stored": [
+     "Acute rhinosinusitis",
+     95.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1319097491,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1Q",
+    "pid": "test:71912",
+    "agent": 1,
+    "n_matches": 1,
+    "parsed": [
+     "Bronchiolitis",
+     70.0
+    ],
+    "stored": [
+     "Bronchiolitis",
+     70.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 4098449680,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:2288",
+    "agent": 2,
+    "n_matches": 1,
+    "parsed": [
+     "Influenza",
+     75.0
+    ],
+    "stored": [
+     "Influenza",
+     75.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 785159727,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1",
+    "pid": "test:5057",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Pulmonary embolism",
+     40.0
+    ],
+    "stored": [
+     "Pulmonary embolism",
+     40.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2169084381,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:21",
+    "agent": 1,
+    "n_matches": 1,
+    "parsed": [
+     "Unstable angina",
+     80.0
+    ],
+    "stored": [
+     "Unstable angina",
+     80.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 4206253730,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:87245",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Atrial fibrillation",
+     60.0
+    ],
+    "stored": [
+     "Atrial fibrillation",
+     60.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 4106209094,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:90674",
+    "agent": 2,
+    "n_matches": 1,
+    "parsed": [
+     "Pulmonary embolism",
+     70.0
+    ],
+    "stored": [
+     "Pulmonary embolism",
+     70.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 4067308393,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1Q",
+    "pid": "test:101069",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Myasthenia gravis",
+     95.0
+    ],
+    "stored": [
+     "Myasthenia gravis",
+     95.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2458099280,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1Q",
+    "pid": "test:90557",
+    "agent": 1,
+    "n_matches": 1,
+    "parsed": [
+     "Localized edema",
+     85.0
+    ],
+    "stored": [
+     "Localized edema",
+     85.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 343020549,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1",
+    "pid": "test:100404",
+    "agent": 1,
+    "n_matches": 1,
+    "parsed": [
+     "Boerhaave",
+     90.0
+    ],
+    "stored": [
+     "Boerhaave",
+     90.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1122596834,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:72119",
+    "agent": 1,
+    "n_matches": 1,
+    "parsed": [
+     "URTI",
+     70.0
+    ],
+    "stored": [
+     "URTI",
+     70.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2215337621,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:79177",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Croup",
+     60.0
+    ],
+    "stored": [
+     "Croup",
+     60.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2850808212,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:98017",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Pulmonary embolism",
+     60.0
+    ],
+    "stored": [
+     "Pulmonary embolism",
+     60.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 4192341378,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1Q",
+    "pid": "test:117499",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Spontaneous pneumothorax",
+     50.0
+    ],
+    "stored": [
+     "Spontaneous pneumothorax",
+     50.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2551263488,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:89206",
+    "agent": 1,
+    "n_matches": 1,
+    "parsed": [
+     "Pulmonary embolism",
+     65.0
+    ],
+    "stored": [
+     "Pulmonary embolism",
+     65.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 3236239114,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1",
+    "pid": "test:1290",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Possible NSTEMI / STEMI",
+     80.0
+    ],
+    "stored": [
+     "Possible NSTEMI / STEMI",
+     80.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1483306285,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:67534",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "Pneumonia",
+     75.0
+    ],
+    "stored": [
+     "Pneumonia",
+     75.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 3948376902,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:98017",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Pulmonary embolism",
+     70.0
+    ],
+    "stored": [
+     "Pulmonary embolism",
+     70.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 3874834719,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1",
+    "pid": "test:19062",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Anemia",
+     60.0
+    ],
+    "stored": [
+     "Anemia",
+     60.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2262260272,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1Q",
+    "pid": "test:53394",
+    "agent": 2,
+    "n_matches": 1,
+    "parsed": [
+     "Acute dystonic reactions",
+     98.0
+    ],
+    "stored": [
+     "Acute dystonic reactions",
+     98.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2238705410,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:61262",
+    "agent": 2,
+    "n_matches": 1,
+    "parsed": [
+     "Anemia",
+     40.0
+    ],
+    "stored": [
+     "Anemia",
+     40.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 137612841,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:77661",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "PSVT",
+     65.0
+    ],
+    "stored": [
+     "PSVT",
+     65.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 3649219449,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:36970",
+    "agent": 2,
+    "n_matches": 1,
+    "parsed": [
+     "Pulmonary embolism",
+     60.0
+    ],
+    "stored": [
+     "Pulmonary embolism",
+     60.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 2072739649,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P2",
+    "pid": "test:90953",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Pericarditis",
+     65.0
+    ],
+    "stored": [
+     "Pericarditis",
+     65.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 3007354142,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P0",
+    "pid": "test:33795",
+    "agent": 0,
+    "n_matches": 1,
+    "parsed": [
+     "URTI",
+     90.0
+    ],
+    "stored": [
+     "URTI",
+     90.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1183686170,
+    "models_ok": true,
+    "real_delib_link": true
+   },
+   {
+    "panel": "P1",
+    "pid": "test:35830",
+    "agent": 3,
+    "n_matches": 1,
+    "parsed": [
+     "Pulmonary embolism",
+     65.0
+    ],
+    "stored": [
+     "Pulmonary embolism",
+     65.0
+    ],
+    "match": true,
+    "n_msgs": 4,
+    "seed": 1495605269,
+    "models_ok": true,
+    "real_delib_link": true
+   }
+  ],
+  "linked_to_real_delib_same_pid_seed_revised": 50,
+  "unlinked": []
+ },
+ "panels": {
+  "P0": {
+   "realized": {},
+   "coin_free": {},
+   "coin_patients": {
+    "real": 2,
+    "pre": 2,
+    "np": 1
+   },
+   "vote_check_vs_stored": {},
+   "acc": {
+    "pre": 0.4013605442176871,
+    "real": 0.40816326530612246,
+    "np": 0.41496598639455784
+   },
+   "acc_coin_free": {
+    "pre": 0.4013605442176871,
+    "real": 0.40816326530612246,
+    "np": 0.41496598639455784
+   },
+   "member_acc": {
+    "pre": 0.39880952380952384,
+    "real": 0.40816326530612246,
+    "np": 0.41241496598639454
+   },
+   "unanimous": {
+    "pre": 0.9013605442176871,
+    "real": 0.9863945578231292,
+    "np": 0.8877551020408163
+   },
+   "answers_real": {
+    "switches": 45,
+    "switch_rate": 0.03826530612244898,
+    "wrong_to_right": 14,
+    "right_to_wrong": 3,
+    "wrong_to_other_wrong": 28,
+    "to_peer_share": 0.9777777777777777
+   },
+   "answers_np": {
+    "switches": 35,
+    "switch_rate": 0.02976190476190476,
+    "wrong_to_right": 17,
+    "right_to_wrong": 1,
+    "wrong_to_other_wrong": 17,
+    "to_peer_share": 0.3142857142857143
+   },
+   "mcnemar_real_vs_np": {
+    "real_only": 0,
+    "np_only": 2,
+    "p": 0.5
+   },
+   "real_minus_pre": {
+    "pts": 0.6802721088435374,
+    "ci95": [
+     0.0,
+     1.7006802721088436
+    ]
+   },
+   "np_minus_pre": {
+    "pts": 1.3605442176870748,
+    "ci95": [
+     0.3401360544217687,
+     2.7210884353741496
+    ]
+   },
+   "real_minus_np": {
+    "pts": -0.6802721088435374,
+    "ci95": [
+     -1.7006802721088436,
+     0.0
+    ]
+   },
+   "real_minus_np_coin_free": {
+    "pts": -0.6802721088435374,
+    "ci95": [
+     -1.7006802721088436,
+     0.0
+    ]
+   }
+  },
+  "P1": {
+   "realized": {},
+   "coin_free": {},
+   "coin_patients": {
+    "pre": 14,
+    "real": 6,
+    "np": 15
+   },
+   "vote_check_vs_stored": {},
+   "acc": {
+    "pre": 0.391156462585034,
+    "real": 0.41156462585034015,
+    "np": 0.3979591836734694
+   },
+   "acc_coin_free": {
+    "pre": 0.38605442176870747,
+    "real": 0.41496598639455784,
+    "np": 0.4030612244897959
+   },
+   "member_acc": {
+    "pre": 0.38010204081632654,
+    "real": 0.4141156462585034,
+    "np": 0.4005102040816326
+   },
+   "unanimous": {
+    "pre": 0.6802721088435374,
+    "real": 0.935374149659864,
+    "np": 0.6666666666666666
+   },
+   "answers_real": {
+    "switches": 172,
+    "switch_rate": 0.14625850340136054,
+    "wrong_to_right": 51,
+    "right_to_wrong": 11,
+    "wrong_to_other_wrong": 110,
+    "to_peer_share": 0.9825581395348837
+   },
+   "answers_np": {
+    "switches": 39,
+    "switch_rate": 0.03316326530612245,
+    "wrong_to_right": 24,
+    "right_to_wrong": 0,
+    "wrong_to_other_wrong": 15,
+    "to_peer_share": 0.358974358974359
+   },
+   "mcnemar_real_vs_np": {
+    "real_only": 6,
+    "np_only": 2,
+    "p": 0.2890625
+   },
+   "real_minus_pre": {
+    "pts": 2.0408163265306123,
+    "ci95": [
+     0.3401360544217687,
+     4.081632653061225
+    ]
+   },
+   "np_minus_pre": {
+    "pts": 0.6802721088435374,
+    "ci95": [
+     -0.6802721088435374,
+     2.0408163265306123
+    ]
+   },
+   "real_minus_np": {
+    "pts": 1.3605442176870748,
+    "ci95": [
+     -0.3401360544217687,
+     3.4013605442176873
+    ]
+   },
+   "real_minus_np_coin_free": {
+    "pts": 1.1904761904761905,
+    "ci95": [
+     -0.6802721088435374,
+     3.231292517006803
+    ]
+   }
+  },
+  "P1Q": {
+   "realized": {},
+   "coin_free": {},
+   "coin_patients": {
+    "pre": 15,
+    "np": 9,
+    "real": 2
+   },
+   "vote_check_vs_stored": {},
+   "acc": {
+    "pre": 0.3197278911564626,
+    "real": 0.3401360544217687,
+    "np": 0.336734693877551
+   },
+   "acc_coin_free": {
+    "pre": 0.32142857142857145,
+    "real": 0.336734693877551,
+    "np": 0.3333333333333333
+   },
+   "member_acc": {
+    "pre": 0.3112244897959184,
+    "real": 0.33843537414965985,
+    "np": 0.32482993197278914
+   },
+   "unanimous": {
+    "pre": 0.4013605442176871,
+    "real": 0.7687074829931972,
+    "np": 0.41836734693877553
+   },
+   "answers_real": {
+    "switches": 294,
+    "switch_rate": 0.25,
+    "wrong_to_right": 57,
+    "right_to_wrong": 25,
+    "wrong_to_other_wrong": 212,
+    "to_peer_share": 0.9693877551020408
+   },
+   "answers_np": {
+    "switches": 76,
+    "switch_rate": 0.06462585034013606,
+    "wrong_to_right": 18,
+    "right_to_wrong": 2,
+    "wrong_to_other_wrong": 56,
+    "to_peer_share": 0.631578947368421
+   },
+   "mcnemar_real_vs_np": {
+    "real_only": 6,
+    "np_only": 5,
+    "p": 1.0
+   },
+   "real_minus_pre": {
+    "pts": 2.0408163265306123,
+    "ci95": [
+     0.0,
+     4.421768707482993
+    ]
+   },
+   "np_minus_pre": {
+    "pts": 1.7006802721088436,
+    "ci95": [
+     0.0,
+     3.409863945578108
+    ]
+   },
+   "real_minus_np": {
+    "pts": 0.3401360544217687,
+    "ci95": [
+     -1.7006802721088436,
+     2.7210884353741496
+    ]
+   },
+   "real_minus_np_coin_free": {
+    "pts": 0.3401360544217687,
+    "ci95": [
+     -1.7006802721088436,
+     2.380952380952381
+    ]
+   }
+  },
+  "P2": {
+   "realized": {},
+   "coin_free": {},
+   "coin_patients": {
+    "real": 1
+   },
+   "vote_check_vs_stored": {},
+   "acc": {
+    "pre": 0.3673469387755102,
+    "real": 0.40476190476190477,
+    "np": 0.3843537414965986
+   },
+   "acc_coin_free": {
+    "pre": 0.3673469387755102,
+    "real": 0.40476190476190477,
+    "np": 0.3843537414965986
+   },
+   "member_acc": {
+    "pre": 0.34523809523809523,
+    "real": 0.39880952380952384,
+    "np": 0.3630952380952381
+   },
+   "unanimous": {
+    "pre": 0.3163265306122449,
+    "real": 0.7278911564625851,
+    "np": 0.32653061224489793
+   },
+   "answers_real": {
+    "switches": 379,
+    "switch_rate": 0.32227891156462585,
+    "wrong_to_right": 101,
+    "right_to_wrong": 38,
+    "wrong_to_other_wrong": 240,
+    "to_peer_share": 0.9604221635883905
+   },
+   "answers_np": {
+    "switches": 110,
+    "switch_rate": 0.0935374149659864,
+    "wrong_to_right": 26,
+    "right_to_wrong": 5,
+    "wrong_to_other_wrong": 79,
+    "to_peer_share": 0.6181818181818182
+   },
+   "mcnemar_real_vs_np": {
+    "real_only": 9,
+    "np_only": 3,
+    "p": 0.14599609375
+   },
+   "real_minus_pre": {
+    "pts": 3.741496598639456,
+    "ci95": [
+     1.0204081632653061,
+     6.802721088435375
+    ]
+   },
+   "np_minus_pre": {
+    "pts": 1.7006802721088436,
+    "ci95": [
+     -0.6802721088435374,
+     4.081632653061225
+    ]
+   },
+   "real_minus_np": {
+    "pts": 2.0408163265306123,
+    "ci95": [
+     0.0,
+     4.421768707482993
+    ]
+   },
+   "real_minus_np_coin_free": {
+    "pts": 2.0408163265306123,
+    "ci95": [
+     0.0,
+     4.421768707482993
+    ]
+   }
+  }
+ },
+ "pooled": {
+  "real_minus_pre": {
+   "pts": 2.1258503401360542,
+   "ci95": [
+    1.0204081632653061,
+    3.3163265306122445
+   ]
+  },
+  "np_minus_pre": {
+   "pts": 1.360544217687075,
+   "ci95": [
+    0.42517006802721086,
+    2.465986394557823
+   ]
+  },
+  "real_minus_np": {
+   "pts": 0.7653061224489796,
+   "ci95": [
+    -0.2551020408163266,
+    1.7857142857142856
+   ]
+  },
+  "real_minus_np_coin_free": {
+   "pts": 0.7227891156462585,
+   "ci95": [
+    -0.3401360544217687,
+    1.7431972789115644
+   ]
+  },
+  "peer_effect_ci_includes_0": true
+ },
+ "claimed_pooled_raw": null,
+ "differences_vs_claim": []
+}

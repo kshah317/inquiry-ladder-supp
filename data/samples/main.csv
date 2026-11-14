@@ -1,0 +1,295 @@
+split,row,AGE,SEX,PATHOLOGY,INITIAL_EVIDENCE
+test,20283,41,F,Acute COPD exacerbation / infection,E_66
+test,54811,64,M,Acute COPD exacerbation / infection,E_66
+test,60612,33,F,Acute COPD exacerbation / infection,E_201
+test,99284,33,F,Acute COPD exacerbation / infection,E_201
+test,100618,68,M,Acute COPD exacerbation / infection,E_214
+test,112974,47,M,Acute COPD exacerbation / infection,E_214
+test,19634,14,F,Acute dystonic reactions,E_192
+test,43137,60,M,Acute dystonic reactions,E_66
+test,51806,39,F,Acute dystonic reactions,E_66
+test,53394,39,F,Acute dystonic reactions,E_205
+test,70430,82,F,Acute dystonic reactions,E_172
+test,125122,37,F,Acute dystonic reactions,E_128
+test,26098,14,F,Acute laryngitis,E_91
+test,28723,14,F,Acute laryngitis,E_91
+test,55531,1,M,Acute laryngitis,E_201
+test,102820,61,M,Acute laryngitis,E_53
+test,103719,10,M,Acute laryngitis,E_212
+test,115608,26,F,Acute laryngitis,E_91
+test,54007,34,F,Acute otitis media,E_201
+test,95363,24,M,Acute otitis media,E_91
+test,108442,2,M,Acute otitis media,E_201
+test,117547,7,M,Acute otitis media,E_53
+test,124760,55,F,Acute otitis media,E_201
+test,128721,24,F,Acute otitis media,E_114
+test,12323,64,M,Acute pulmonary edema,E_175
+test,24256,35,F,Acute pulmonary edema,E_53
+test,57316,106,F,Acute pulmonary edema,E_151
+test,90557,28,F,Acute pulmonary edema,E_151
+test,90674,56,M,Acute pulmonary edema,E_151
+test,119871,66,M,Acute pulmonary edema,E_66
+test,351,47,M,Acute rhinosinusitis,E_182
+test,3427,24,F,Acute rhinosinusitis,E_182
+test,27649,72,F,Acute rhinosinusitis,E_103
+test,29894,32,M,Acute rhinosinusitis,E_53
+test,99762,26,F,Acute rhinosinusitis,E_182
+test,118114,50,F,Acute rhinosinusitis,E_182
+test,31016,37,M,Allergic sinusitis,E_169
+test,37831,10,F,Allergic sinusitis,E_181
+test,62015,46,M,Allergic sinusitis,E_169
+test,84282,64,F,Allergic sinusitis,E_169
+test,105545,14,F,Allergic sinusitis,E_170
+test,131221,8,F,Allergic sinusitis,E_181
+test,15462,61,M,Anaphylaxis,E_53
+test,50170,46,M,Anaphylaxis,E_82
+test,69064,46,F,Anaphylaxis,E_82
+test,79177,55,M,Anaphylaxis,E_194
+test,111319,49,F,Anaphylaxis,E_53
+test,114473,39,F,Anaphylaxis,E_129
+test,7675,5,F,Anemia,E_66
+test,8071,81,M,Anemia,E_76
+test,14289,28,M,Anemia,E_76
+test,22556,40,M,Anemia,E_53
+test,44575,29,F,Anemia,E_154
+test,55592,6,F,Anemia,E_82
+test,19062,26,M,Atrial fibrillation,E_218
+test,53385,18,M,Atrial fibrillation,E_66
+test,86254,67,M,Atrial fibrillation,E_164
+test,87245,28,M,Atrial fibrillation,E_164
+test,93989,35,F,Atrial fibrillation,E_164
+test,132710,40,F,Atrial fibrillation,E_76
+test,229,13,F,Boerhaave,E_148
+test,38973,59,F,Boerhaave,E_210
+test,69069,24,M,Boerhaave,E_53
+test,76655,62,F,Boerhaave,E_148
+test,100404,40,F,Boerhaave,E_211
+test,125359,67,M,Boerhaave,E_148
+test,22468,58,M,Bronchiectasis,E_201
+test,27276,18,F,Bronchiectasis,E_77
+test,52397,52,F,Bronchiectasis,E_45
+test,53371,48,M,Bronchiectasis,E_77
+test,112161,87,M,Bronchiectasis,E_77
+test,112217,30,F,Bronchiectasis,E_66
+test,37106,1,M,Bronchiolitis,E_66
+test,40981,1,M,Bronchiolitis,E_32
+test,43542,1,F,Bronchiolitis,E_91
+test,55458,0,F,Bronchiolitis,E_66
+test,71912,0,F,Bronchiolitis,E_91
+test,75609,0,M,Bronchiolitis,E_32
+test,8287,51,M,Bronchitis,E_97
+test,44769,50,F,Bronchitis,E_77
+test,110670,28,F,Bronchitis,E_77
+test,119263,76,F,Bronchitis,E_214
+test,120034,5,M,Bronchitis,E_201
+test,121711,0,M,Bronchitis,E_219
+test,56338,0,F,Bronchospasm / acute asthma exacerbation,E_201
+test,62695,17,M,Bronchospasm / acute asthma exacerbation,E_66
+test,65167,40,M,Bronchospasm / acute asthma exacerbation,E_66
+test,68760,51,F,Bronchospasm / acute asthma exacerbation,E_201
+test,109520,8,F,Bronchospasm / acute asthma exacerbation,E_201
+test,127904,36,M,Bronchospasm / acute asthma exacerbation,E_201
+test,2253,43,F,Chagas,E_91
+test,30800,62,F,Chagas,E_66
+test,46873,17,F,Chagas,E_51
+test,50621,19,F,Chagas,E_91
+test,81731,48,F,Chagas,E_53
+test,121387,49,F,Chagas,E_175
+test,15420,61,F,Chronic rhinosinusitis,E_181
+test,31623,58,F,Chronic rhinosinusitis,E_53
+test,38531,26,M,Chronic rhinosinusitis,E_182
+test,73996,57,F,Chronic rhinosinusitis,E_103
+test,101562,37,F,Chronic rhinosinusitis,E_53
+test,124190,108,M,Chronic rhinosinusitis,E_53
+test,5649,46,F,Cluster headache,E_181
+test,14259,8,M,Cluster headache,E_53
+test,65645,56,F,Cluster headache,E_53
+test,76577,63,F,Cluster headache,E_181
+test,95874,50,M,Cluster headache,E_53
+test,115732,89,F,Cluster headache,E_53
+test,50452,1,F,Croup,E_91
+test,56222,6,M,Croup,E_190
+test,81882,0,M,Croup,E_181
+test,91822,7,F,Croup,E_66
+test,109191,4,F,Croup,E_202
+test,128621,0,F,Croup,E_190
+test,2275,0,M,Ebola,E_201
+test,11220,32,M,Ebola,E_89
+test,68715,31,F,Ebola,E_39
+test,93467,44,F,Ebola,E_144
+test,102233,68,F,Ebola,E_144
+test,106018,63,F,Ebola,E_144
+test,13545,91,F,Epiglottitis,E_190
+test,53831,44,F,Epiglottitis,E_65
+test,69414,27,M,Epiglottitis,E_53
+test,72954,28,M,Epiglottitis,E_33
+test,100413,32,F,Epiglottitis,E_53
+test,122358,39,F,Epiglottitis,E_190
+test,39115,68,M,GERD,E_201
+test,52174,8,M,GERD,E_217
+test,56439,50,M,GERD,E_53
+test,56460,75,M,GERD,E_217
+test,71562,62,M,GERD,E_210
+test,84935,4,F,GERD,E_215
+test,28477,40,M,Guillain-Barré syndrome,E_157
+test,44784,70,F,Guillain-Barré syndrome,E_93
+test,45970,65,M,Guillain-Barré syndrome,E_177
+test,50605,44,F,Guillain-Barré syndrome,E_83
+test,76419,25,F,Guillain-Barré syndrome,E_177
+test,92298,50,M,Guillain-Barré syndrome,E_157
+test,4762,27,F,HIV (initial infection),E_88
+test,7691,14,F,HIV (initial infection),E_9
+test,24736,17,M,HIV (initial infection),E_53
+test,56681,48,M,HIV (initial infection),E_129
+test,87889,6,F,HIV (initial infection),E_97
+test,99478,29,F,HIV (initial infection),E_50
+test,2288,33,F,Influenza,E_88
+test,7481,10,M,Influenza,E_94
+test,32712,15,M,Influenza,E_91
+test,38492,17,F,Influenza,E_181
+test,60881,45,M,Influenza,E_88
+test,88606,59,M,Influenza,E_53
+test,44792,33,F,Inguinal hernia,E_129
+test,74056,31,M,Inguinal hernia,E_30
+test,94572,51,M,Inguinal hernia,E_53
+test,108498,62,F,Inguinal hernia,E_129
+test,116173,39,F,Inguinal hernia,E_203
+test,121024,23,F,Inguinal hernia,E_150
+test,41069,28,F,Larygospasm,E_194
+test,52736,83,M,Larygospasm,E_194
+test,57270,24,M,Larygospasm,E_194
+test,62681,72,M,Larygospasm,E_194
+test,69602,36,F,Larygospasm,E_194
+test,119070,71,M,Larygospasm,E_194
+test,5387,10,M,Localized edema,E_151
+test,9378,27,F,Localized edema,E_53
+test,51410,33,F,Localized edema,E_151
+test,66847,10,F,Localized edema,E_151
+test,110154,46,F,Localized edema,E_96
+test,123379,38,F,Localized edema,E_53
+test,50232,2,M,Myasthenia gravis,E_65
+test,50707,30,F,Myasthenia gravis,E_63
+test,60259,61,M,Myasthenia gravis,E_65
+test,85051,44,F,Myasthenia gravis,E_65
+test,101069,30,F,Myasthenia gravis,E_90
+test,104588,32,M,Myasthenia gravis,E_66
+test,5057,26,M,Myocarditis,E_53
+test,25949,24,M,Myocarditis,E_218
+test,51640,71,F,Myocarditis,E_155
+test,90953,64,M,Myocarditis,E_217
+test,103777,29,F,Myocarditis,E_217
+test,122246,2,F,Myocarditis,E_155
+test,10095,36,M,PSVT,E_155
+test,33965,70,M,PSVT,E_53
+test,77661,5,F,PSVT,E_155
+test,82379,28,M,PSVT,E_155
+test,87658,9,F,PSVT,E_82
+test,123895,57,F,PSVT,E_76
+test,38938,45,F,Pancreatic neoplasm,E_129
+test,49571,39,M,Pancreatic neoplasm,E_188
+test,66154,33,M,Pancreatic neoplasm,E_188
+test,77940,32,F,Pancreatic neoplasm,E_53
+test,112663,48,M,Pancreatic neoplasm,E_53
+test,124707,22,F,Pancreatic neoplasm,E_188
+test,31224,7,M,Panic attack,E_171
+test,35830,64,M,Panic attack,E_148
+test,84489,66,M,Panic attack,E_53
+test,87898,46,F,Panic attack,E_82
+test,94766,44,F,Panic attack,E_75
+test,113906,69,F,Panic attack,E_148
+test,8766,30,F,Pericarditis,E_53
+test,16099,29,M,Pericarditis,E_66
+test,54000,27,M,Pericarditis,E_53
+test,99243,44,M,Pericarditis,E_217
+test,108889,11,M,Pericarditis,E_217
+test,123698,40,M,Pericarditis,E_220
+test,25735,54,M,Pneumonia,E_53
+test,72119,31,F,Pneumonia,E_181
+test,77178,38,F,Pneumonia,E_219
+test,88212,23,M,Pneumonia,E_220
+test,90466,41,F,Pneumonia,E_175
+test,116501,0,M,Pneumonia,E_181
+test,1290,67,F,Possible NSTEMI / STEMI,E_66
+test,69584,82,M,Possible NSTEMI / STEMI,E_66
+test,86336,59,F,Possible NSTEMI / STEMI,E_89
+test,90232,27,F,Possible NSTEMI / STEMI,E_50
+test,96255,26,F,Possible NSTEMI / STEMI,E_50
+test,133784,59,F,Possible NSTEMI / STEMI,E_161
+test,12891,61,F,Pulmonary embolism,E_53
+test,36970,41,F,Pulmonary embolism,E_45
+test,51661,20,M,Pulmonary embolism,E_53
+test,64764,73,M,Pulmonary embolism,E_151
+test,126318,25,M,Pulmonary embolism,E_159
+test,126913,26,F,Pulmonary embolism,E_151
+test,9907,44,F,Pulmonary neoplasm,E_66
+test,23930,50,M,Pulmonary neoplasm,E_53
+test,38457,46,F,Pulmonary neoplasm,E_45
+test,56132,83,M,Pulmonary neoplasm,E_45
+test,70135,57,M,Pulmonary neoplasm,E_89
+test,118017,42,F,Pulmonary neoplasm,E_53
+test,5491,59,F,SLE,E_89
+test,61500,24,M,SLE,E_53
+test,63379,68,F,SLE,E_206
+test,67626,71,F,SLE,E_89
+test,111767,65,M,SLE,E_53
+test,117675,11,F,SLE,E_53
+test,3298,51,M,Sarcoidosis,E_53
+test,4631,36,F,Sarcoidosis,E_53
+test,38838,31,M,Sarcoidosis,E_53
+test,77160,27,F,Sarcoidosis,E_53
+test,90587,21,M,Sarcoidosis,E_74
+test,95922,6,M,Sarcoidosis,E_9
+test,23024,27,M,Scombroid food poisoning,E_129
+test,44910,17,F,Scombroid food poisoning,E_82
+test,53038,55,M,Scombroid food poisoning,E_66
+test,82578,109,M,Scombroid food poisoning,E_92
+test,105741,58,M,Scombroid food poisoning,E_129
+test,106210,57,M,Scombroid food poisoning,E_148
+test,21,67,F,Spontaneous pneumothorax,E_14
+test,11238,35,M,Spontaneous pneumothorax,E_220
+test,27320,71,M,Spontaneous pneumothorax,E_66
+test,75551,25,M,Spontaneous pneumothorax,E_53
+test,90103,30,F,Spontaneous pneumothorax,E_14
+test,117499,5,F,Spontaneous pneumothorax,E_53
+test,34204,60,M,Spontaneous rib fracture,E_201
+test,84543,30,F,Spontaneous rib fracture,E_216
+test,98017,74,F,Spontaneous rib fracture,E_220
+test,100070,38,F,Spontaneous rib fracture,E_66
+test,105264,35,M,Spontaneous rib fracture,E_203
+test,126245,19,F,Spontaneous rib fracture,E_53
+test,1395,72,M,Stable angina,E_218
+test,19339,59,F,Stable angina,E_53
+test,45965,40,M,Stable angina,E_53
+test,55184,25,M,Stable angina,E_66
+test,89206,63,F,Stable angina,E_66
+test,116156,31,F,Stable angina,E_89
+test,50473,55,M,Tuberculosis,E_91
+test,56413,52,M,Tuberculosis,E_201
+test,58852,30,F,Tuberculosis,E_66
+test,79872,5,M,Tuberculosis,E_162
+test,103974,57,M,Tuberculosis,E_201
+test,124712,22,M,Tuberculosis,E_66
+test,18789,63,F,URTI,E_97
+test,21508,27,M,URTI,E_53
+test,33795,0,M,URTI,E_181
+test,67534,36,F,URTI,E_201
+test,90111,44,M,URTI,E_144
+test,133910,55,F,URTI,E_144
+test,9425,19,F,Unstable angina,E_89
+test,20394,38,M,Unstable angina,E_66
+test,44352,35,F,Unstable angina,E_53
+test,61262,18,M,Unstable angina,E_13
+test,118933,56,M,Unstable angina,E_53
+test,132974,71,M,Unstable angina,E_14
+test,9866,35,M,Viral pharyngitis,E_45
+test,85196,21,M,Viral pharyngitis,E_201
+test,95258,40,F,Viral pharyngitis,E_53
+test,107845,8,F,Viral pharyngitis,E_181
+test,113541,19,F,Viral pharyngitis,E_45
+test,127894,17,F,Viral pharyngitis,E_201
+test,51475,72,F,Whooping cough,E_203
+test,52549,18,M,Whooping cough,E_112
+test,65416,57,F,Whooping cough,E_203
+test,70392,32,F,Whooping cough,E_112
+test,80524,20,F,Whooping cough,E_166
+test,106934,23,F,Whooping cough,E_166

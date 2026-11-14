@@ -1,0 +1,493 @@
+{
+ "matched": {
+  "P0": {
+   "team": 0.408,
+   "members": [
+    0.367,
+    0.408,
+    0.388,
+    0.388
+   ],
+   "mean_member": 0.388,
+   "team_minus_mean_member": {
+    "diff": 2.0,
+    "ci95": [
+     -0.5,
+     4.7
+    ]
+   },
+   "indep_vote": 0.408,
+   "vote_minus_mean_member": {
+    "diff": 2.0,
+    "ci95": [
+     0.4,
+     3.7
+    ]
+   },
+   "team_minus_vote": {
+    "diff": 0.0,
+    "ci95": [
+     -2.7,
+     2.7
+    ],
+    "mcnemar_p": 1.0
+   }
+  },
+  "P1": {
+   "team": 0.412,
+   "members": [
+    0.395,
+    0.344,
+    0.35,
+    0.367
+   ],
+   "mean_member": 0.364,
+   "team_minus_mean_member": {
+    "diff": 4.8,
+    "ci95": [
+     1.5,
+     8.0
+    ]
+   },
+   "indep_vote": 0.391,
+   "vote_minus_mean_member": {
+    "diff": 2.7,
+    "ci95": [
+     0.4,
+     5.0
+    ]
+   },
+   "team_minus_vote": {
+    "diff": 2.0,
+    "ci95": [
+     -1.4,
+     5.4
+    ],
+    "mcnemar_p": 0.34492845088243484
+   }
+  },
+  "P0Q": {
+   "team": 0.388,
+   "members": [
+    0.327,
+    0.354,
+    0.344,
+    0.313
+   ],
+   "mean_member": 0.334,
+   "team_minus_mean_member": {
+    "diff": 5.4,
+    "ci95": [
+     1.8,
+     8.9
+    ]
+   },
+   "indep_vote": 0.374,
+   "vote_minus_mean_member": {
+    "diff": 4.0,
+    "ci95": [
+     1.7,
+     6.3
+    ]
+   },
+   "team_minus_vote": {
+    "diff": 1.4,
+    "ci95": [
+     -3.1,
+     5.8
+    ],
+    "mcnemar_p": 0.6439689563703723
+   }
+  },
+  "P1Q": {
+   "team": 0.34,
+   "members": [
+    0.313,
+    0.31,
+    0.32,
+    0.327
+   ],
+   "mean_member": 0.317,
+   "team_minus_mean_member": {
+    "diff": 2.3,
+    "ci95": [
+     -1.0,
+     5.8
+    ]
+   },
+   "indep_vote": 0.364,
+   "vote_minus_mean_member": {
+    "diff": 4.7,
+    "ci95": [
+     2.1,
+     7.3
+    ]
+   },
+   "team_minus_vote": {
+    "diff": -2.4,
+    "ci95": [
+     -6.5,
+     1.7
+    ],
+    "mcnemar_p": 0.31050465907901537
+   }
+  },
+  "P2": {
+   "team": 0.405,
+   "members": [
+    0.367,
+    0.344,
+    0.327,
+    0.357
+   ],
+   "mean_member": 0.349,
+   "team_minus_mean_member": {
+    "diff": 5.6,
+    "ci95": [
+     2.1,
+     9.1
+    ]
+   },
+   "indep_vote": 0.401,
+   "vote_minus_mean_member": {
+    "diff": 5.3,
+    "ci95": [
+     2.6,
+     8.1
+    ]
+   },
+   "team_minus_vote": {
+    "diff": 0.3,
+    "ci95": [
+     -4.1,
+     4.8
+    ],
+    "mcnemar_p": 1.0
+   }
+  }
+ },
+ "shapley_chance": {
+  "P0": {
+   "values": [
+    0.083,
+    0.107,
+    0.099,
+    0.098
+   ],
+   "ci95": [
+    [
+     0.066,
+     0.101
+    ],
+    [
+     0.089,
+     0.125
+    ],
+    [
+     0.08,
+     0.117
+    ],
+    [
+     0.08,
+     0.117
+    ]
+   ],
+   "spread": 0.024,
+   "masking": [
+    0.097,
+    0.097,
+    0.097,
+    0.097
+   ]
+  },
+  "P1": {
+   "values": [
+    0.125,
+    0.079,
+    0.088,
+    0.1
+   ],
+   "ci95": [
+    [
+     0.098,
+     0.151
+    ],
+    [
+     0.057,
+     0.101
+    ],
+    [
+     0.067,
+     0.109
+    ],
+    [
+     0.079,
+     0.121
+    ]
+   ],
+   "spread": 0.046,
+   "masking": [
+    0.095,
+    0.101,
+    0.099,
+    0.097
+   ]
+  },
+  "P1Q": {
+   "values": [
+    0.073,
+    0.084,
+    0.082,
+    0.081
+   ],
+   "ci95": [
+    [
+     0.051,
+     0.095
+    ],
+    [
+     0.062,
+     0.107
+    ],
+    [
+     0.059,
+     0.105
+    ],
+    [
+     0.059,
+     0.103
+    ]
+   ],
+   "spread": 0.011,
+   "masking": [
+    0.09,
+    0.077,
+    0.069,
+    0.084
+   ]
+  },
+  "P2": {
+   "values": [
+    0.105,
+    0.093,
+    0.084,
+    0.102
+   ],
+   "ci95": [
+    [
+     0.079,
+     0.132
+    ],
+    [
+     0.068,
+     0.118
+    ],
+    [
+     0.062,
+     0.106
+    ],
+    [
+     0.08,
+     0.124
+    ]
+   ],
+   "spread": 0.021,
+   "masking": [
+    0.103,
+    0.09,
+    0.093,
+    0.098
+   ]
+  },
+  "CHECK": {
+   "values": [
+    0.088,
+    0.048,
+    -0.032,
+    0.386
+   ],
+   "ci95": [
+    [
+     0.04,
+     0.136
+    ],
+    [
+     -0.001,
+     0.097
+    ],
+    [
+     -0.061,
+     -0.003
+    ],
+    [
+     0.321,
+     0.45
+    ]
+   ],
+   "spread": 0.418,
+   "masking": [
+    0.072,
+    0.072,
+    0.03,
+    0.315
+   ]
+  }
+ },
+ "by_size": {
+  "P0": {
+   "mean_accuracy": {
+    "1": 0.388,
+    "2": 0.41,
+    "3": 0.406,
+    "4": 0.408
+   },
+   "fourth_minus_mean_of_three": 0.3
+  },
+  "P1": {
+   "mean_accuracy": {
+    "1": 0.364,
+    "2": 0.398,
+    "3": 0.397,
+    "4": 0.412
+   },
+   "fourth_minus_mean_of_three": 1.4
+  },
+  "P1Q": {
+   "mean_accuracy": {
+    "1": 0.317,
+    "2": 0.339,
+    "3": 0.383,
+    "4": 0.34
+   },
+   "fourth_minus_mean_of_three": -4.3
+  },
+  "P2": {
+   "mean_accuracy": {
+    "1": 0.349,
+    "2": 0.367,
+    "3": 0.406,
+    "4": 0.405
+   },
+   "fourth_minus_mean_of_three": -0.1
+  }
+ },
+ "retention": {
+  "P0": {
+   "asked_by_most_frequent_proposer": 4.97,
+   "shares_proposer_with_previous": 0.9974,
+   "n_linked": [
+    1173,
+    1176
+   ],
+   "question_rounds_by_resolution": {
+    "majority": 0.936,
+    "coin": 0.033,
+    "confidence": 0.031
+   }
+  },
+  "P1": {
+   "asked_by_most_frequent_proposer": 4.37,
+   "shares_proposer_with_previous": 0.9065,
+   "n_linked": [
+    1066,
+    1176
+   ],
+   "question_rounds_by_resolution": {
+    "majority": 0.814,
+    "coin": 0.114,
+    "confidence": 0.072
+   }
+  },
+  "P0Q": {
+   "asked_by_most_frequent_proposer": 4.14,
+   "shares_proposer_with_previous": 0.8503,
+   "n_linked": [
+    1000,
+    1176
+   ],
+   "question_rounds_by_resolution": {
+    "coin": 0.087,
+    "confidence": 0.171,
+    "majority": 0.741,
+    "single": 0.001
+   }
+  },
+  "P1Q": {
+   "asked_by_most_frequent_proposer": 3.77,
+   "shares_proposer_with_previous": 0.7321,
+   "n_linked": [
+    861,
+    1176
+   ],
+   "question_rounds_by_resolution": {
+    "majority": 0.664,
+    "confidence": 0.218,
+    "coin": 0.118
+   }
+  },
+  "P2": {
+   "asked_by_most_frequent_proposer": 3.82,
+   "shares_proposer_with_previous": 0.7849,
+   "n_linked": [
+    923,
+    1176
+   ],
+   "question_rounds_by_resolution": {
+    "majority": 0.683,
+    "confidence": 0.317
+   }
+  }
+ },
+ "vote_fail": {
+  "P0": {
+   "vote_wrong": 174,
+   "no_member_right": 156,
+   "correct_minority_outvoted": 16,
+   "tie_lost": 2
+  },
+  "P1": {
+   "vote_wrong": 179,
+   "no_member_right": 138,
+   "correct_minority_outvoted": 33,
+   "tie_lost": 8
+  },
+  "P0Q": {
+   "vote_wrong": 184,
+   "no_member_right": 144,
+   "correct_minority_outvoted": 32,
+   "tie_lost": 8
+  },
+  "P1Q": {
+   "vote_wrong": 187,
+   "no_member_right": 144,
+   "correct_minority_outvoted": 29,
+   "tie_lost": 14
+  },
+  "P2": {
+   "vote_wrong": 176,
+   "no_member_right": 127,
+   "correct_minority_outvoted": 36,
+   "tie_lost": 13
+  }
+ },
+ "reference_minus_P0Q": {
+  "diff": 7.5,
+  "ci95": [
+   2.0,
+   12.9
+  ],
+  "mcnemar_p": 0.01033766119369546
+ },
+ "P1Q_minus_P0Q_no_truncated_call": {
+  "n": 216,
+  "diff": -4.2,
+  "ci95": [
+   -9.7,
+   1.4
+  ],
+  "truncated_calls": {
+   "P1Q": 102,
+   "P0Q": 123
+  }
+ }
+}

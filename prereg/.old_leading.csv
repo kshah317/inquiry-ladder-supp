@@ -1,0 +1,154 @@
+,q,ppv,cond,sens
+E_13,Do you find that your symptoms have worsened over the last 2 weeks and that progressively less effort is required to cause the symptoms?,1.0,Unstable angina,0.6877729257641921
+E_23,Do you ever temporarily stop breathing while you’re asleep?,1.0,Bronchiolitis,0.42857142857142855
+E_30,Do you feel your abdomen is bloated or distended (swollen due to pressure from inside)?,1.0,Inguinal hernia,0.618161094224924
+E_32,Do you have a decrease in appetite?,1.0,Bronchiolitis,0.35714285714285715
+E_33,Do you have pain that improves when you lean forward?,1.0,Epiglottitis,0.6165480427046264
+E_39,Have you felt confused or disorientated lately?,1.0,Ebola,0.7444444444444445
+E_38,Do you have pain or weakness in your jaw?,1.0,Myasthenia gravis,0.6567855488652153
+E_42,Have you been in contact with or ate something that you have an allergy to?,1.0,Anaphylaxis,0.7773042088438998
+E_43,Have you lost consciousness associated with violent and sustained muscle contractions or had an absence episode?,1.0,Sarcoidosis,0.5667107001321003
+E_96,Have you gained weight recently?,1.0,Localized edema,0.6053059014618299
+E_52,Do you have the perception of seeing two images of a single object seen overlapping or adjacent to each other (double vision)?,1.0,Myasthenia gravis,0.7202408522464103
+E_63,Do you have difficulty articulating words/speaking?,1.0,Myasthenia gravis,0.7165354330708661
+E_64,Do you feel out of breath with minimal physical effort?,1.0,Myocarditis,0.6069812540400775
+E_67,Do you have bouts of choking or shortness of breath that wake you up at night?,1.0,Acute pulmonary edema,0.7552
+E_74,Have you noticed a diffuse (widespread) redness in one or both eyes?,1.0,Sarcoidosis,0.5313738441215323
+E_75,Do you feel like you are (or were) choking or suffocating?,1.0,Panic attack,0.5477293790546802
+E_83,Have you noticed weakness in your facial muscles and/or eyes?,1.0,Guillain-Barré syndrome,0.6222135314822057
+E_92,Did your cheeks suddenly turn red?,1.0,Scombroid food poisoning,0.988
+E_90,Do your symptoms of muscle weakness increase with fatigue and/or stress?,1.0,Myasthenia gravis,0.49235757295044
+E_93,"Do you have numbness, loss of sensation or tingling in the feet?",1.0,Guillain-Barré syndrome,0.5917090340242471
+E_128,Have you ever felt like you were suffocating for a very short time associated with inability to breathe or speak?,1.0,Acute dystonic reactions,0.5979884181651935
+E_127,Do you feel that your eyes produce excessive tears?,1.0,Cluster headache,0.5966209081309398
+E_114,Are you more irritable or has your mood been very unstable recently?,1.0,Acute otitis media,0.5541162924582613
+E_112,Do you wheeze while inhaling or is your breathing noisy after coughing spells?,1.0,Whooping cough,0.5504587155963303
+E_111,Do you feel like you are dying or were you afraid that you were about do die?,1.0,Panic attack,0.7528575841828854
+E_224,Do you have family members who have had lung cancer?,1.0,Pulmonary neoplasm,0.6858804865150714
+E_223,Are there members of your family who have been diagnosed with pancreatic cancer?,1.0,Pancreatic neoplasm,0.7591014717273431
+E_186,Have you ever been diagnosed with obstructive sleep apnea (OSA)?,1.0,Localized edema,0.5896047644829453
+E_187,Did you eat dark-fleshed fish (such as tuna) or Swiss cheese before the reaction occurred?,1.0,Scombroid food poisoning,0.9951111111111111
+E_189,Have you had sexual intercourse with an HIV-positive partner in the past 12 months?,1.0,HIV (initial infection),0.7214434060228453
+E_145,Do you have very abundant or very long menstruation periods?,1.0,Anemia,0.21729682746631898
+E_150,Have you been able to pass stools or gas since your symptoms increased?,1.0,Inguinal hernia,0.5193768996960486
+E_154,Is your skin much paler than usual?,1.0,Anemia,0.602201941184992
+E_166,Did you vomit after coughing?,1.0,Whooping cough,0.9926605504587156
+E_156,"Have you had weakness or paralysis on one side of the face, which may still be present or completely resolved?",1.0,Guillain-Barré syndrome,0.5553382870551428
+E_164,Do you feel your heart is beating very irregularly or in a disorganized pattern?,1.0,Atrial fibrillation,0.7646607895745496
+E_163,Have you had any vaginal discharge?,1.0,Sarcoidosis,0.4319682959048877
+E_168,Do you have trouble keeping your tongue in your mouth?,1.0,Acute dystonic reactions,0.6674794270039622
+E_171,Do you feel like you are detached from your own body or your surroundings?,1.0,Panic attack,0.7262897744825456
+E_170,Do you have severe itching in one or both eyes?,1.0,Allergic sinusitis,0.6970973782771536
+E_169,Is your nose or the back of your throat itchy?,1.0,Allergic sinusitis,0.7888576779026217
+E_202,Do you have whooping cough (coughing fits followed by a 'whoop' on breathing in)?,1.0,Croup,0.6629213483146067
+E_193,"Do you have annoying muscle spasms in your face, neck or any other part of your body?",1.0,Acute dystonic reactions,0.6510210301737275
+E_188,Do you have pale stools and dark urine?,1.0,Pancreatic neoplasm,0.7184353214562355
+E_173,"Do you have a burning sensation that starts in your stomach then goes up into your throat, and can be associated with a bitter taste in your mouth?",1.0,GERD,0.7390542907180385
+E_178,Have you noticed any unusual bleeding or bruising related to your consultation today?,1.0,Ebola,0.8888888888888888
+E_174,Have you been unintentionally losing weight or have you lost your appetite?,1.0,Chagas,0.547153024911032
+E_180,Are you unable to control the direction of your eyes?,1.0,Acute dystonic reactions,0.5857970131057605
+E_179,Have you noticed light red blood or blood clots in your stool?,1.0,Anemia,0.6016224829784151
+E_192,Do you feel that muscle spasms or soreness in your neck are keeping you from turning your head to one side?,1.0,Acute dystonic reactions,0.6345626333434928
+E_4,Have you or any member of your family ever had croup?,1.0,Croup,0.7191011235955056
+E_216,Do you have pain that is increased with movement?,1.0,Spontaneous rib fracture,0.9987212276214834
+E_221,"Are the symptoms or pain increased with coughing, with an effort like lifting a weight or from forcing a bowel movement?",1.0,Inguinal hernia,0.5892857142857143
+E_215,Do you have symptoms that get worse after eating?,1.0,GERD,0.7530647985989493
+E_211,Have you vomited several times or have you made several efforts to vomit?,1.0,Boerhaave,0.8004819277108434
+E_206,Do you have painful mouth ulcers or sores?,1.0,SLE,0.6770107663077898
+E_205,Do you suddenly have difficulty or an inability to open your mouth or have jaw pain when opening it?,1.0,Acute dystonic reactions,0.6479731789088693
+E_27,Have you ever had a sexually transmitted infection?,1.0,HIV (initial infection),0.715472481827622
+E_21,Have you ever had a spontaneous pneumothorax?,1.0,Spontaneous pneumothorax,0.8377224199288256
+E_24,Have you ever had a diagnosis of anemia?,1.0,Anemia,0.7803853397073736
+E_25,Have any of your family members been diagnosed with cluster headaches?,1.0,Cluster headache,0.8359732488560366
+E_17,Are you of Asian descent?,1.0,Bronchiectasis,0.10909874946097456
+E_18,Do you have cystic fibrosis?,1.0,Bronchiectasis,0.7805088400172489
+E_19,Have you been diagnosed with hyperthyroidism?,1.0,Atrial fibrillation,0.6899195093905711
+E_1,Are you currently being treated or have you recently been treated with an oral antibiotic for an ear infection?,1.0,Acute otitis media,0.531951640759931
+E_7,Do you have a poor diet?,1.0,Anemia,0.75344053310155
+E_8,Do you currently undergo dialysis?,1.0,Acute pulmonary edema,0.7628
+E_6,Do you have chronic pancreatitis?,1.0,Pancreatic neoplasm,0.62858249419055
+E_5,Have you ever had fluid in your lungs?,1.0,Acute pulmonary edema,0.8124
+E_15,Have you started or taken any antipsychotic medication within the last 7 days?,1.0,Acute dystonic reactions,0.6921670222493143
+E_12,Do you have a known severe food allergy?,1.0,Anaphylaxis,0.8002131060202451
+E_11,Have you breastfed one of your children for more than 9 months?,1.0,SLE,0.08866371120962635
+E_10,Are you currently taking or have you recently taken anti-inflammatory drugs (NSAIDs)?,1.0,Localized edema,0.5657823497563617
+E_28,Are there any members of your family who have been diagnosed myasthenia gravis?,1.0,Myasthenia gravis,0.6377952755905512
+E_26,Do you have any family members who have been diagnosed with anemia?,1.0,Anemia,0.7137476459510358
+E_20,Do you have Rheumatoid Arthritis?,1.0,Bronchiectasis,0.6601983613626563
+E_86,"Do you have any close family members who suffer from allergies (any type), hay fever or eczema?",1.0,Allergic sinusitis,0.6376404494382022
+E_73,"In the last month, have you been in contact with anyone infected with the Ebola virus?",1.0,Ebola,0.8888888888888888
+E_72,Have you had one or several flare ups of chronic obstructive pulmonary disease (COPD) in the past year?,1.0,Acute COPD exacerbation / infection,0.7177263969171483
+E_80,Have you ever been diagnosed with depression?,1.0,Panic attack,0.7315415508186592
+E_81,Do you suffer from chronic anxiety?,1.0,Panic attack,0.7550200803212851
+E_47,Do you suffer from Crohn’s disease or ulcerative colitis (UC)?,1.0,Bronchiectasis,0.6563173781802502
+E_60,Do you consume energy drinks regularly?,1.0,PSVT,0.5879629629629629
+E_40,Have you been in contact with someone who has had pertussis (whooping cough)?,1.0,Whooping cough,0.6055045871559633
+E_46,Have you had 2 or more asthma attacks in the past year?,1.0,Bronchospasm / acute asthma exacerbation,0.7532820280669986
+E_37,Do you have metastatic cancer?,1.0,Spontaneous rib fracture,0.6854219948849105
+E_35,Do you regularly drink coffee or tea?,1.0,PSVT,0.5585016835016835
+E_34,Do you have an active cancer?,1.0,Pulmonary embolism,0.6687248322147651
+E_29,Do any members of your immediate family have a psychiatric illness?,1.0,Panic attack,0.5517454433117084
+E_200,Do you work in the mining sector?,1.0,Acute COPD exacerbation / infection,0.6045279383429673
+E_213,Have you recently taken decongestants or other substances that may have stimulant effects?,1.0,PSVT,0.5854377104377104
+E_197,Do you have a known kidney problem resulting in an inability to retain proteins?,1.0,Localized edema,0.6662154845695722
+E_184,Do you take medication that dilates your blood vessels?,1.0,Cluster headache,0.7543118620204153
+E_185,Have you ever had a head trauma?,1.0,Panic attack,0.7176397899289465
+E_195,Do you live in the suburbs?,1.0,Bronchiolitis,0.42857142857142855
+E_199,Do you work in construction?,1.0,Acute COPD exacerbation / infection,0.5443159922928709
+E_147,"Have you been treated in hospital recently for nausea, agitation, intoxication or aggressive behavior and received medication via an intravenous or intramuscular route?",1.0,Acute dystonic reactions,0.6991770801584882
+E_160,Were you born prematurely or did you suffer any complication at birth?,1.0,Inguinal hernia,0.59080547112462
+E_149,Do you take a calcium channel blockers (medication)?,1.0,Localized edema,0.6082837033026529
+E_153,Are you being treated for osteoporosis?,1.0,Spontaneous rib fracture,0.7583120204603581
+E_158,Were you diagnosed with endocrine disease or a hormone dysfunction?,1.0,Localized edema,0.5522468868435301
+E_183,Do you live in a rural area?,1.0,Bronchiolitis,0.5714285714285714
+E_99,Have you ever had a migraine or is a member of your family known to have migraines?,1.0,Panic attack,0.5535990114303367
+E_98,Do you have a hiatal hernia?,1.0,GERD,0.6903093987157034
+E_95,Do you have Parkinson’s disease?,1.0,Pneumonia,0.6435132032146957
+E_119,Have you been diagnosed with chronic sinusitis?,1.0,Bronchospasm / acute asthma exacerbation,0.7311000452693527
+E_110,Have you been unable to move or get up for more than 3 consecutive days within the last 4 weeks?,1.0,Pulmonary embolism,0.6163758389261745
+E_113,Do you have chronic kidney failure?,1.0,Anemia,0.7501086484137331
+E_100,Do you currently take hormones?,1.0,Pulmonary embolism,0.30093959731543624
+E_102,Are you consulting because you have high blood pressure?,1.0,SLE,0.5788473717542748
+E_101,Have you been hospitalized for an asthma attack in the past year?,1.0,Bronchospasm / acute asthma exacerbation,0.6962426437301946
+E_107,Have you ever had a stroke?,1.0,Pneumonia,0.5921354764638347
+E_108,Do you have a problem with poor circulation?,1.0,Possible NSTEMI / STEMI,0.7410805300713558
+E_115,Have you had unprotected sex with more than one partner in the last 6 months?,1.0,HIV (initial infection),0.7191069574247144
+E_146,Are you taking any new oral anticoagulants (NOACs)?,1.0,Anemia,0.7955961176300159
+E_142,Does your mother suffer from asthma?,1.0,Bronchiolitis,0.6785714285714286
+E_141,Did you have your first menstrual period before the age of 12?,1.0,SLE,0.3305889803673211
+E_139,Do you have a known heart defect?,1.0,Atrial fibrillation,0.6569566883863549
+E_138,Do you suffer from fibromyalgia?,1.0,Panic attack,0.6784059314179796
+E_137,Have you ever had surgery to remove lymph nodes?,1.0,Localized edema,0.7439090416892258
+E_126,Do you have liver cirrhosis?,1.0,Localized edema,0.6813752030319437
+E_165,Have any of your family members ever had a pneumothorax?,1.0,Spontaneous pneumothorax,0.6775800711743772
+E_210,Have you recently thrown up blood or something resembling coffee beans?,0.69,Boerhaave,0.7219277108433735
+E_140,Have you recently had stools that were black (like coal)?,0.66,Anemia,0.5959727654642909
+E_196,Have you had surgery within the last month?,0.66,Pulmonary embolism,0.9535570469798658
+E_3,Have you ever had a pericarditis?,0.58,Pericarditis,0.83311345646438
+E_191,Are you a former smoker?,0.58,Pulmonary neoplasm,0.8069804336329984
+E_190,Have you noticed that you produce more saliva than usual?,0.57,Epiglottitis,0.7455516014234875
+E_22,Do you have a known issue with one of your heart valves?,0.55,Atrial fibrillation,0.7512456880030663
+E_87,Do you have any family members who have asthma?,0.55,Bronchospasm / acute asthma exacerbation,0.6428248076052513
+E_44,Do you take corticosteroids?,0.54,Localized edema,0.6413102328099621
+E_31,Do you have severe Chronic Obstructive Pulmonary Disease (COPD)?,0.54,Atrial fibrillation,0.7520122652357225
+E_103,Have you lost your sense of smell?,0.54,Chronic rhinosinusitis,0.8571954361428046
+E_14,Do you have chest pain even at rest?,0.54,Unstable angina,0.6557496360989811
+E_172,Do you have a hard time opening/raising one or both eyelids?,0.54,Myasthenia gravis,0.7068087077350625
+E_182,Do you have greenish or yellowish nasal discharge?,0.54,Acute rhinosinusitis,0.7867095391211146
+E_157,"Have you recently had numbness, loss of sensation or tingling, in both arms and legs and around your mouth?",0.54,Panic attack,0.809082483781279
+E_159,Did you lose consciousness?,0.53,Pulmonary embolism,0.6781208053691276
+E_2,Are you infected with the human immunodeficiency virus (HIV)?,0.53,Possible NSTEMI / STEMI,0.6639483520217465
+E_84,Do you feel weakness in both arms and/or both legs?,0.53,Guillain-Barré syndrome,0.7129448572545952
+E_109,Have you ever had deep vein thrombosis (DVT)?,0.53,Pulmonary embolism,0.6523489932885906
+E_212,"Have you noticed that the tone of your voice has become deeper, softer or hoarse?",0.53,Acute laryngitis,0.8611681831523335
+E_94,Have you had chills or shivers?,0.52,Pneumonia,0.697187141216992
+E_61,Are you currently using intravenous drugs?,0.52,HIV (initial infection),0.6074766355140186
+E_198,Do you work in agriculture?,0.51,Sarcoidosis,0.6086525759577279
+E_121,Do you have a deviated nasal septum?,0.51,Chronic rhinosinusitis,0.6978284873021715
+E_65,"Do you have difficulty swallowing, or have a feeling of discomfort/blockage when swallowing?",0.5,Epiglottitis,0.7362099644128114
+E_16,Do you feel anxious?,0.5,Panic attack,0.677170219338894
+E_177,"Do you currently, or did you ever, have numbness, loss of sensitivity or tingling anywhere on your body?",0.5,Guillain-Barré syndrome,0.5615956198670317
+E_120,Do you have polyps in your nose?,0.5,Acute rhinosinusitis,0.9180064308681672
+E_143,"Do you exercise regularly, 4 times per week or more?",0.5,Unstable angina,0.6619359534206696
+E_167,Do you think you are pregnant or are you currently pregnant?,0.5,Anemia,0.33854845719252497
+E_207,Do you live in a big city?,0.5,Allergic sinusitis,0.5781835205992509

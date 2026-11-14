@@ -1,0 +1,202 @@
+{
+ "seed": 4242,
+ "B": 10000,
+ "n": 294,
+ "pid_unique": true,
+ "correct_vs_final_mismatch": 0,
+ "acc": {
+  "mean": 0.46258503401360546,
+  "ci95": [
+   0.40476190476190477,
+   0.5204081632653061
+  ]
+ },
+ "cost_per_consultation_usd": 0.18247001360544218,
+ "calls": 2092,
+ "truncated_calls": 422,
+ "truncated_share": 0.20172084130019122,
+ "retries": 328,
+ "abstained_proposals": 84,
+ "final_missing": 13,
+ "games_with_lt5_questions": 61,
+ "acc_by_truncations": {
+  "0": {
+   "n": 117,
+   "acc": 0.6068376068376068
+  },
+  "1": {
+   "n": 77,
+   "acc": 0.4935064935064935
+  },
+  "2+": {
+   "n": 100,
+   "acc": 0.27
+  }
+ },
+ "vs": {
+  "P0": {
+   "best_member": "B",
+   "team": {
+    "anchor": 0.46258503401360546,
+    "other": 0.40816326530612246,
+    "diff_pts": 5.442176870748299,
+    "ci95_pts": [
+     0.3401360544217687,
+     10.884353741496598
+    ],
+    "mcnemar": {
+     "a_only": 40,
+     "b_only": 24,
+     "p": 0.05994118956699923
+    },
+    "other_cost_raw_usd": 0.028630748639455784
+   },
+   "best_member_B": {
+    "anchor": 0.46258503401360546,
+    "other": 0.40816326530612246,
+    "diff_pts": 5.442176870748299,
+    "ci95_pts": [
+     -0.3401360544217687,
+     11.224489795918368
+    ],
+    "mcnemar": {
+     "a_only": 46,
+     "b_only": 30,
+     "p": 0.08464609267083598
+    },
+    "other_cost_raw_usd": 0.006072121088435374
+   },
+   "team_cost_usd_analysis_json": 0.0286,
+   "solo_cost_usd_analysis_json": 0.0061,
+   "cost_ratio_anchor_over_team": 6.380070405784692,
+   "best_member_cost_raw_usd": 0.006072121088435374,
+   "cost_ratio_anchor_over_best_member_raw": 30.0504569898918,
+   "cost_ratio_anchor_over_solo_mean": 29.913116984498718,
+   "cost_ratio_anchor_over_team_raw": 6.373218385005199
+  },
+  "P1": {
+   "best_member": "A",
+   "team": {
+    "anchor": 0.46258503401360546,
+    "other": 0.41156462585034015,
+    "diff_pts": 5.1020408163265305,
+    "ci95_pts": [
+     -0.3401360544217687,
+     10.54421768707483
+    ],
+    "mcnemar": {
+     "a_only": 41,
+     "b_only": 26,
+     "p": 0.08643723427347082
+    },
+    "other_cost_raw_usd": 0.028270413265306122
+   },
+   "best_member_A": {
+    "anchor": 0.46258503401360546,
+    "other": 0.3945578231292517,
+    "diff_pts": 6.802721088435375,
+    "ci95_pts": [
+     1.7006802721088436,
+     12.244897959183673
+    ],
+    "mcnemar": {
+     "a_only": 43,
+     "b_only": 23,
+     "p": 0.01865726035402101
+    },
+    "other_cost_raw_usd": 0.00618654693877551
+   },
+   "team_cost_usd_analysis_json": 0.0283,
+   "solo_cost_usd_analysis_json": 0.0061,
+   "cost_ratio_anchor_over_team": 6.4477036609696885,
+   "best_member_cost_raw_usd": 0.00618654693877551,
+   "cost_ratio_anchor_over_best_member_raw": 29.494646272183314,
+   "cost_ratio_anchor_over_solo_mean": 29.913116984498718,
+   "cost_ratio_anchor_over_team_raw": 6.454451581341831
+  },
+  "P2": {
+   "best_member": "A",
+   "team": {
+    "anchor": 0.46258503401360546,
+    "other": 0.40476190476190477,
+    "diff_pts": 5.782312925170068,
+    "ci95_pts": [
+     1.3605442176870748,
+     10.54421768707483
+    ],
+    "mcnemar": {
+     "a_only": 34,
+     "b_only": 17,
+     "p": 0.024092907698449295
+    },
+    "other_cost_raw_usd": 0.030975135833333327
+   },
+   "best_member_A": {
+    "anchor": 0.46258503401360546,
+    "other": 0.3673469387755102,
+    "diff_pts": 9.523809523809524,
+    "ci95_pts": [
+     4.421768707482993,
+     14.625850340136054
+    ],
+    "mcnemar": {
+     "a_only": 44,
+     "b_only": 16,
+     "p": 0.00039404324272610154
+    },
+    "other_cost_raw_usd": 0.006055614965986395
+   },
+   "team_cost_usd_analysis_json": 0.031,
+   "solo_cost_usd_analysis_json": 0.0067,
+   "cost_ratio_anchor_over_team": 5.886129471143296,
+   "best_member_cost_raw_usd": 0.006055614965986395,
+   "cost_ratio_anchor_over_best_member_raw": 30.132367171683242,
+   "cost_ratio_anchor_over_solo_mean": 27.234330388871967,
+   "cost_ratio_anchor_over_team_raw": 5.890854348056818
+  },
+  "P1Q": {
+   "best_member": "D",
+   "team": {
+    "anchor": 0.46258503401360546,
+    "other": 0.3401360544217687,
+    "diff_pts": 12.244897959183673,
+    "ci95_pts": [
+     7.142857142857142,
+     17.687074829931973
+    ],
+    "mcnemar": {
+     "a_only": 53,
+     "b_only": 17,
+     "p": 1.919969240032143e-05
+    },
+    "other_cost_raw_usd": 0.0196788931122449
+   },
+   "best_member_D": {
+    "anchor": 0.46258503401360546,
+    "other": 0.32653061224489793,
+    "diff_pts": 13.60544217687075,
+    "ci95_pts": [
+     8.16326530612245,
+     19.387755102040817
+    ],
+    "mcnemar": {
+     "a_only": 58,
+     "b_only": 18,
+     "p": 4.713242239575157e-06
+    },
+    "other_cost_raw_usd": 0.00421913418367347
+   },
+   "team_cost_usd_analysis_json": 0.0197,
+   "solo_cost_usd_analysis_json": 0.0042,
+   "cost_ratio_anchor_over_team": 9.262437238854934,
+   "best_member_cost_raw_usd": 0.00421913418367347,
+   "cost_ratio_anchor_over_best_member_raw": 43.24821294177735,
+   "cost_ratio_anchor_over_solo_mean": 43.445241334629095,
+   "cost_ratio_anchor_over_team_raw": 9.272371802858308
+  }
+ },
+ "comparison": {
+  "checks": 86,
+  "flags": []
+ }
+}

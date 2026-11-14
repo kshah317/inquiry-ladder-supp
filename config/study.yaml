@@ -1,0 +1,35 @@
+# Single source of truth for study settings. Values marked FROZEN must not change
+# after the study plan is signed off.
+seed: 20261120                 # FROZEN: master seed (sampling, tie-breaks)
+samples:
+  main:  {split: test,     per_condition: 6}   # 49 x 6 = 294 patients
+  pilot: {split: validate, per_condition: 2}   # 49 x 2 = 98 patients (run the first 49 for a quick check)
+game:
+  rounds: 5
+  deliberation_rounds: 1
+  temperature: 0.7             # FROZEN after pilot: same for every agent and panel
+  main_score: top1             # FROZEN after pilot (base model 49% top-1: no ceiling, no floor); rounds stay 5
+models:
+  # OpenRouter IDs. Serving rule: ONE provider (DeepInfra) for every open-weight model, fp8 or better,
+  # no fallbacks, so serving stack and quantisation are not confounded with "model diversity".
+  # Prices checked on OpenRouter before the main runs (USD per 1M tokens, in/out).
+  # reasoning: thinking disabled for every model that has a thinking mode.
+  gemma4_31b:     {id: google/gemma-4-31b-it,     provider: deepinfra/fp8,  price: [0.20, 0.40]}
+  gemma3_27b:     {id: google/gemma-3-27b-it,     provider: deepinfra/fp8,  price: [0.08, 0.16]}   # DROPPED from P2 after pilot (29% vs 49%); pilot table only
+  qwen38_27b:     {id: qwen/qwen3.8-27b,          provider: deepinfra/bf16, price: [0.15, 1.875]}
+  qwen36_27b:     {id: qwen/qwen3.6-27b,          provider: deepinfra/fp8,  price: [0.32, 3.20]}
+  gemma3_4b:      {id: google/gemma-3-4b-it,      provider: deepinfra/bf16, price: [0.05, 0.10]}
+  gemma4_26b_moe: {id: google/gemma-4-26b-a4b-it, provider: deepinfra/fp8,  price: [0.07, 0.34]}   # IN P2 (replaces gemma3_27b)
+  mistral_small:  {id: mistralai/mistral-small-2603, provider: mistral,       price: [0.15, 0.60]}   # SCREENED, EXCLUDED: 29% top-1 (capability mismatch); pilot table only
+  gptoss_20b:     {id: openai/gpt-oss-20b,        provider: dekallm/bf16,   price: [0.029, 0.14], reasoning: low}   # SCREENED, EXCLUDED: 20% top-1, 26% invalid proposals, reasoning cannot be disabled; pilot table only
+  qwen38_max:     {id: qwen/qwen3.8-max-0902,     provider: alibaba,        price: [2.00, 6.00], reasoning: mandatory}   # API-only anchor; endpoint refuses reasoning off
+evidence_map:
+  derive_from_split: validate  # map is built from validation patients, never from test patients
+  min_lift: 1.5                # an item is tagged to a specialty only if it is >=1.5x as common there
+  min_positive_weight: 0.5     # and appears in >= 50% of patients of at least one condition in that group
+budget:
+  # Spending stop used by scripts/20_run_panel.py (checked before every batch of games).
+  # Key spend before main runs: $13.33. Working budget ~$380 -> stop when the key has spent $394.
+  # Account balance floor keeps the reserve untouched (balance was $433.82).
+  key_usage_stop_usd: 394
+  min_account_balance_usd: 50

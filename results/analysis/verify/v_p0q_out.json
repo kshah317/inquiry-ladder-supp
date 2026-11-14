@@ -1,0 +1,340 @@
+{
+ "1_counts": {
+  "A": [
+   294,
+   294
+  ],
+  "B": [
+   294,
+   294
+  ],
+  "C": [
+   294,
+   294
+  ],
+  "D": [
+   294,
+   294
+  ],
+  "ABCD": [
+   294,
+   294
+  ]
+ },
+ "1": {
+  "seed_ids": [
+   "Q38.gen.a",
+   "Q38.gen.a"
+  ],
+  "asked_diff": 0,
+  "dx_diff": 0,
+  "correct_diff": 0,
+  "rounds_diff": 0,
+  "final_full_diff": 294,
+  "correct_vs_truth_bad": 0
+ },
+ "2": {
+  "team": 0.3877551020408163,
+  "pre": 0.35374149659863946,
+  "pre_recomputed": 0.35374149659863946,
+  "solos": {
+   "A": 0.32653061224489793,
+   "B": 0.35374149659863946,
+   "C": 0.3435374149659864,
+   "D": 0.3129251700680272
+  },
+  "solos_from_dx": {
+   "A": 0.32653061224489793,
+   "B": 0.35374149659863946,
+   "C": 0.3435374149659864,
+   "D": 0.3129251700680272
+  }
+ },
+ "3": {
+  "coin_patients": 14,
+  "coin_with_truth": 7,
+  "range": [
+   0.36054421768707484,
+   0.3843537414965986
+  ],
+  "expected": 0.37188208616780044,
+  "seeded": 0.3741496598639456,
+  "team_minus_seeded": {
+   "diff": 1.36,
+   "ci95": [
+    -3.06,
+    5.78
+   ],
+   "ci90": [
+    -2.38,
+    5.1
+   ],
+   "mcnemar": [
+    24,
+    20,
+    0.651587827208914
+   ],
+   "tost": 0.0541
+  },
+  "team_minus_lo": {
+   "diff": 2.72,
+   "ci95": [
+    -1.7,
+    7.14
+   ],
+   "ci90": [
+    -1.02,
+    6.46
+   ],
+   "mcnemar": [
+    25,
+    17,
+    0.27995623852893914
+   ],
+   "tost": 0.1508
+  },
+  "team_minus_hi": {
+   "diff": 0.34,
+   "ci95": [
+    -4.08,
+    4.76
+   ],
+   "ci90": [
+    -3.4,
+    4.08
+   ],
+   "mcnemar": [
+    23,
+    22,
+    1.0
+   ],
+   "tost": 0.0212
+  },
+  "coin_detail": [
+   [
+    "test:7675",
+    [
+     "Anaphylaxis",
+     "Bronchospasm / acute asthma exacerbation",
+     "Panic attack"
+    ],
+    "Anemia"
+   ],
+   [
+    "test:55592",
+    [
+     "Anemia",
+     "Panic attack"
+    ],
+    "Anemia"
+   ],
+   [
+    "test:37106",
+    [
+     "Bronchitis",
+     "Pneumonia"
+    ],
+    "Bronchiolitis"
+   ],
+   [
+    "test:44769",
+    [
+     "Bronchitis",
+     "Pneumonia"
+    ],
+    "Bronchitis"
+   ],
+   [
+    "test:109520",
+    [
+     "Bronchiolitis",
+     "Bronchospasm / acute asthma exacerbation"
+    ],
+    "Bronchospasm / acute asthma exacerbation"
+   ],
+   [
+    "test:128621",
+    [
+     "Acute laryngitis",
+     "Acute otitis media",
+     "Epiglottitis"
+    ],
+    "Croup"
+   ],
+   [
+    "test:60881",
+    [
+     "Influenza",
+     "Pneumonia"
+    ],
+    "Influenza"
+   ],
+   [
+    "test:116173",
+    [
+     "Bronchospasm / acute asthma exacerbation",
+     "Inguinal hernia",
+     "Pneumonia"
+    ],
+    "Inguinal hernia"
+   ],
+   [
+    "test:51640",
+    [
+     "PSVT",
+     "Stable angina"
+    ],
+    "Myocarditis"
+   ],
+   [
+    "test:113906",
+    [
+     "Panic attack",
+     "Pulmonary embolism"
+    ],
+    "Panic attack"
+   ],
+   [
+    "test:72119",
+    [
+     "Allergic sinusitis",
+     "Spontaneous pneumothorax",
+     "URTI"
+    ],
+    "Pneumonia"
+   ],
+   [
+    "test:69584",
+    [
+     "Acute COPD exacerbation / infection",
+     "Possible NSTEMI / STEMI"
+    ],
+    "Possible NSTEMI / STEMI"
+   ],
+   [
+    "test:133784",
+    [
+     "GERD",
+     "Pancreatic neoplasm"
+    ],
+    "Possible NSTEMI / STEMI"
+   ],
+   [
+    "test:9907",
+    [
+     "Bronchitis",
+     "Spontaneous pneumothorax",
+     "Spontaneous rib fracture"
+    ],
+    "Pulmonary neoplasm"
+   ]
+  ]
+ },
+ "4": {
+  "diff": -4.76,
+  "ci95": [
+   -9.52,
+   0.0
+  ],
+  "ci90": [
+   -8.5,
+   -1.02
+  ],
+  "mcnemar": [
+   18,
+   32,
+   0.06490864707227217
+  ],
+  "tost": 0.4604
+ },
+ "5": {
+  "diff": -2.04,
+  "ci95": [
+   -8.16,
+   4.08
+  ],
+  "ci90": [
+   -7.14,
+   3.06
+  ],
+  "mcnemar": [
+   37,
+   43,
+   0.5764306261883931
+  ],
+  "tost": 0.166
+ },
+ "6": {
+  "diff": -5.1,
+  "ci95": [
+   -11.22,
+   1.02
+  ]
+ },
+ "7": {
+  "best": "B",
+  "diff": 3.4,
+  "ci95": [
+   -1.36,
+   8.16
+  ],
+  "ci90": [
+   -0.68,
+   7.48
+  ],
+  "mcnemar": [
+   31,
+   21,
+   0.21160856876151612
+  ],
+  "tost": 0.2572
+ },
+ "8": {
+  "pooled_counts": 0.42758620689655175,
+  "mean_of_pairs": 0.427906148986318,
+  "per_pair": [
+   0.428,
+   0.4,
+   0.44,
+   0.469,
+   0.419,
+   0.411
+  ],
+  "both": 1015,
+  "same": 434,
+  "null_pooled": 0.23087451729721553,
+  "null_mean_of_pairs": 0.23080983135290697,
+  "null95": [
+   0.20880664222370526,
+   0.254475562177265
+  ],
+  "p_upper": 0.0004997501249375312
+ },
+ "10": {
+  "n": 1176,
+  "switch": 0.2576530612244898,
+  "w2r": 67,
+  "r2w": 21,
+  "acc_pre": 0.34098639455782315,
+  "acc_post": 0.38010204081632654
+ },
+ "11": {
+  "n_rounds": 1470,
+  "null_chosen": 0,
+  "share": {
+   "0": 0.0,
+   "1": 0.17959183673469387,
+   "2": 0.39727891156462586,
+   "3": 0.21564625850340136,
+   "4": 0.20748299319727892
+  }
+ },
+ "9": {
+  "A": 0.8299319727891157,
+  "B": 0.8299319727891157,
+  "C": 0.8163265306122449,
+  "D": 0.8401360544217688,
+  "ABCD": 0.8469387755102041,
+  "union": 0.9285714285714286
+ }
+}

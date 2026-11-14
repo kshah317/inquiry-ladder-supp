@@ -1,0 +1,170 @@
+{
+ "P1": {
+  "n": 294,
+  "1_ceiling_rotate_minus_plurality": {
+   "a": 0.806,
+   "b": 0.806,
+   "diff": 0.0,
+   "ci95": [
+    -3.4,
+    3.4
+   ],
+   "mcnemar_p": 1.0
+  },
+  "2_ceiling_rotate_minus_mean_member": {
+   "a": 0.806,
+   "b": 0.794,
+   "diff": 1.2,
+   "ci95": [
+    -1.8,
+    4.2
+   ]
+  },
+  "2_ceiling_pooled_minus_rotate": {
+   "a": 0.901,
+   "b": 0.806,
+   "diff": 9.5,
+   "ci95": [
+    5.4,
+    13.9
+   ],
+   "mcnemar_p": 0.0
+  },
+  "3_accuracy_rotate_minus_plurality": {
+   "a": 0.405,
+   "b": 0.412,
+   "diff": -0.7,
+   "ci95": [
+    -4.1,
+    3.1
+   ],
+   "mcnemar_p": 0.8555
+  },
+  "3_accuracy_rotate_minus_indep_vote": {
+   "a": 0.405,
+   "b": 0.391,
+   "diff": 1.4,
+   "ci95": [
+    -2.7,
+    5.4
+   ],
+   "mcnemar_p": 0.6177
+  },
+  "3_accuracy_rotate_minus_mean_member": {
+   "a": 0.405,
+   "b": 0.364,
+   "diff": 4.1,
+   "ci95": [
+    0.5,
+    7.7
+   ]
+  },
+  "3_accuracy_before_deliberation": {
+   "rotate": 0.374,
+   "plurality": 0.391
+  },
+  "4_asked_questions": 1470,
+  "4_asked_per_member_mean": [
+   1.18,
+   1.26,
+   1.32,
+   1.24
+  ],
+  "4_asked_also_proposed_by_another_member": 0.631,
+  "4_asked_questions_shared_with_plurality_mean": 3.91,
+  "4_marker_asked_when_available": {
+   "rotate": 0.09,
+   "plurality": 0.118
+  },
+  "run": {
+   "truncated_calls": 0,
+   "final_answers_missing": 0,
+   "passed_turns": 0,
+   "cost_per_episode_usd": 0.0283
+  }
+ },
+ "P2": {
+  "n": 294,
+  "1_ceiling_rotate_minus_plurality": {
+   "a": 0.813,
+   "b": 0.762,
+   "diff": 5.1,
+   "ci95": [
+    1.7,
+    8.8
+   ],
+   "mcnemar_p": 0.0107
+  },
+  "2_ceiling_rotate_minus_mean_member": {
+   "a": 0.813,
+   "b": 0.81,
+   "diff": 0.3,
+   "ci95": [
+    -2.7,
+    3.2
+   ]
+  },
+  "2_ceiling_pooled_minus_rotate": {
+   "a": 0.895,
+   "b": 0.813,
+   "diff": 8.2,
+   "ci95": [
+    4.4,
+    12.2
+   ],
+   "mcnemar_p": 0.0001
+  },
+  "3_accuracy_rotate_minus_plurality": {
+   "a": 0.405,
+   "b": 0.405,
+   "diff": 0.0,
+   "ci95": [
+    -4.1,
+    4.1
+   ],
+   "mcnemar_p": 1.0
+  },
+  "3_accuracy_rotate_minus_indep_vote": {
+   "a": 0.405,
+   "b": 0.401,
+   "diff": 0.3,
+   "ci95": [
+    -4.4,
+    4.8
+   ],
+   "mcnemar_p": 1.0
+  },
+  "3_accuracy_rotate_minus_mean_member": {
+   "a": 0.405,
+   "b": 0.349,
+   "diff": 5.6,
+   "ci95": [
+    1.9,
+    9.4
+   ]
+  },
+  "3_accuracy_before_deliberation": {
+   "rotate": 0.371,
+   "plurality": 0.367
+  },
+  "4_asked_questions": 1470,
+  "4_asked_per_member_mean": [
+   1.18,
+   1.25,
+   1.33,
+   1.25
+  ],
+  "4_asked_also_proposed_by_another_member": 0.566,
+  "4_asked_questions_shared_with_plurality_mean": 3.56,
+  "4_marker_asked_when_available": {
+   "rotate": 0.132,
+   "plurality": 0.151
+  },
+  "run": {
+   "truncated_calls": 60,
+   "final_answers_missing": 0,
+   "passed_turns": 6,
+   "cost_per_episode_usd": 0.0305
+  }
+ }
+}

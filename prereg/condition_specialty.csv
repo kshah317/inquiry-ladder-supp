@@ -1,0 +1,50 @@
+condition,icd10,severity,specialty,ambiguous,icd_chapter_specialty,reason
+Acute COPD exacerbation / infection,J44.1,3,Pulmonology,0,Pulmonology,Chronic airway disease
+Acute dystonic reactions,G24.02,2,Other,0,Other,Neurology / drug reaction
+Acute laryngitis,J04.0,4,Other,0,Other,ENT
+Acute otitis media,H66.90,4,Other,0,Other,ENT
+Acute pulmonary edema,J81.0,1,Cardiology,0,Pulmonology,Cardiogenic in the DDXPlus knowledge base (heart failure history); ICD chapter J
+Acute rhinosinusitis,J01,4,Other,0,Other,ENT
+Allergic sinusitis,J30,4,Other,0,Other,ENT / allergy
+Anaphylaxis,T78.0,1,Other,0,Other,Allergy / emergency
+Anemia,D64.9,4,Other,0,Other,Haematology
+Atrial fibrillation,I48.91,3,Cardiology,0,Cardiology,Arrhythmia
+Boerhaave,K22.3,2,Other,0,Other,Gastroenterology / surgery
+Bronchiectasis,J47,3,Pulmonology,0,Pulmonology,Chronic airway disease
+Bronchiolitis,J21,3,Pulmonology,1,Pulmonology,Paediatric viral lower-airway infection: pulmonology vs infectious disease
+Bronchitis,J40,4,Pulmonology,0,Pulmonology,"Lower airway; managed as respiratory, not as a systemic infection"
+Bronchospasm / acute asthma exacerbation,J45,3,Pulmonology,0,Pulmonology,Airway disease
+Chagas,B57,3,Infectious disease,0,Infectious disease,Parasitic infection; travel/exposure history
+Chronic rhinosinusitis,J32,5,Other,0,Other,ENT
+Cluster headache,G44.009,3,Other,0,Other,Neurology
+Croup,J05.0,2,Other,0,Other,Paediatrics / ENT
+Ebola,A98.4,1,Infectious disease,0,Infectious disease,Systemic viral infection; exposure history
+Epiglottitis,J05.1,2,Other,0,Other,ENT / airway emergency
+GERD,K21,3,Other,0,Other,Gastroenterology
+Guillain-Barré syndrome,G61.0,2,Other,0,Other,Neurology
+HIV (initial infection),B20,3,Infectious disease,0,Infectious disease,Systemic viral infection
+Influenza,J11.1,3,Infectious disease,0,Pulmonology,Systemic viral syndrome
+Inguinal hernia,K40,3,Other,0,Other,Surgery
+Larygospasm,J38.5,1,Other,0,Other,ENT / airway
+Localized edema,R60.0,4,Other,0,Other,Internal medicine (non-pulmonary oedema)
+Myasthenia gravis,G70.0,3,Other,0,Other,Neurology
+Myocarditis,I51.4,2,Cardiology,0,Cardiology,"Myocardial disease (often viral cause, but cardiology leads work-up)"
+PSVT,I47.1,2,Cardiology,0,Cardiology,Arrhythmia
+Pancreatic neoplasm,C25,3,Other,0,Other,Oncology / gastroenterology
+Panic attack,F41,5,Other,0,Other,Psychiatry
+Pericarditis,I30,4,Cardiology,0,Cardiology,Pericardial disease
+Pneumonia,"J17, J18",3,Pulmonology,1,Pulmonology,Pulmonology and infectious disease have an equal claim
+Possible NSTEMI / STEMI,I21,1,Cardiology,0,Cardiology,Acute coronary syndrome
+Pulmonary embolism,I26,2,Pulmonology,1,Cardiology,Pulmonology and cardiology have an equal claim (ICD chapter I)
+Pulmonary neoplasm,C34,3,Pulmonology,0,Other,Lung cancer is usually first worked up by pulmonology
+SLE,M32,4,Other,0,Other,Rheumatology
+Sarcoidosis,D86,4,Pulmonology,0,Other,Mostly pulmonary presentation (ICD chapter D)
+Scombroid food poisoning,T61.1,2,Other,0,Other,Toxicology / emergency
+Spontaneous pneumothorax,J93,2,Pulmonology,0,Pulmonology,Pleural disease
+Spontaneous rib fracture,S22.9,3,Other,0,Other,Orthopaedics
+Stable angina,I20.9,2,Cardiology,0,Cardiology,Coronary artery disease
+Tuberculosis,A15,3,Infectious disease,0,Infectious disease,Mycobacterial infection; ICD chapter A
+URTI,J06.9,5,Other,0,Other,ENT / primary care
+Unstable angina,I20.0,2,Cardiology,0,Cardiology,Acute coronary syndrome
+Viral pharyngitis,J02.9,4,Other,0,Other,ENT / primary care
+Whooping cough,A37,4,Infectious disease,0,Infectious disease,Bacterial infection; ICD chapter A

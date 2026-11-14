@@ -1,0 +1,99 @@
+split,row,AGE,SEX,PATHOLOGY,INITIAL_EVIDENCE
+validate,96733,59,F,Acute COPD exacerbation / infection,E_214
+validate,20824,58,F,Acute dystonic reactions,E_205
+validate,10363,68,M,Acute laryngitis,E_201
+validate,61916,26,M,Acute otitis media,E_91
+validate,19535,52,F,Acute pulmonary edema,E_67
+validate,44727,54,F,Acute rhinosinusitis,E_201
+validate,61979,31,M,Allergic sinusitis,E_170
+validate,25123,64,F,Anaphylaxis,E_82
+validate,99586,19,M,Anemia,E_66
+validate,28158,0,M,Atrial fibrillation,E_76
+validate,19639,25,F,Boerhaave,E_211
+validate,115373,58,M,Bronchiectasis,E_66
+validate,80565,0,F,Bronchiolitis,E_214
+validate,620,59,F,Bronchitis,E_53
+validate,35220,30,M,Bronchospasm / acute asthma exacerbation,E_66
+validate,12613,57,F,Chagas,E_91
+validate,55123,9,F,Chronic rhinosinusitis,E_103
+validate,77732,9,M,Cluster headache,E_53
+validate,27668,2,F,Croup,E_181
+validate,2586,5,M,Ebola,E_51
+validate,3935,31,M,Epiglottitis,E_33
+validate,13115,70,F,GERD,E_173
+validate,82788,57,F,Guillain-Barré syndrome,E_83
+validate,63686,24,M,HIV (initial infection),E_53
+validate,22882,46,F,Influenza,E_53
+validate,47052,38,M,Inguinal hernia,E_129
+validate,67750,16,M,Larygospasm,E_194
+validate,16953,51,M,Localized edema,E_53
+validate,20528,72,M,Myasthenia gravis,E_66
+validate,41163,52,F,Myocarditis,E_66
+validate,8322,30,M,PSVT,E_155
+validate,8796,61,F,Pancreatic neoplasm,E_89
+validate,109741,34,F,Panic attack,E_177
+validate,19417,51,M,Pericarditis,E_53
+validate,53258,58,F,Pneumonia,E_45
+validate,85534,20,M,Possible NSTEMI / STEMI,E_50
+validate,56276,10,M,Pulmonary embolism,E_53
+validate,338,51,M,Pulmonary neoplasm,E_66
+validate,68083,59,F,SLE,E_206
+validate,2805,7,F,Sarcoidosis,E_163
+validate,53023,77,F,Scombroid food poisoning,E_51
+validate,26471,73,M,Spontaneous pneumothorax,E_53
+validate,24028,28,F,Spontaneous rib fracture,E_66
+validate,54425,49,M,Stable angina,E_218
+validate,72149,14,M,Tuberculosis,E_45
+validate,46995,97,F,URTI,E_50
+validate,61200,33,M,Unstable angina,E_53
+validate,18747,9,M,Viral pharyngitis,E_45
+validate,110560,40,F,Whooping cough,E_166
+validate,97955,48,F,Acute COPD exacerbation / infection,E_201
+validate,55205,47,F,Acute dystonic reactions,E_193
+validate,76571,0,F,Acute laryngitis,E_91
+validate,87283,16,M,Acute otitis media,E_53
+validate,123403,52,M,Acute pulmonary edema,E_67
+validate,52727,13,F,Acute rhinosinusitis,E_91
+validate,92092,37,F,Allergic sinusitis,E_169
+validate,48624,34,F,Anaphylaxis,E_214
+validate,114153,13,F,Anemia,E_66
+validate,102528,72,F,Atrial fibrillation,E_76
+validate,22918,69,F,Boerhaave,E_211
+validate,126655,45,M,Bronchiectasis,E_45
+validate,99937,0,M,Bronchiolitis,E_91
+validate,107803,3,M,Bronchitis,E_66
+validate,125487,47,F,Bronchospasm / acute asthma exacerbation,E_66
+validate,86004,2,F,Chagas,E_148
+validate,86449,27,M,Chronic rhinosinusitis,E_182
+validate,98736,14,M,Cluster headache,E_53
+validate,100738,9,F,Croup,E_194
+validate,25619,39,F,Ebola,E_144
+validate,103864,9,F,Epiglottitis,E_53
+validate,42949,1,M,GERD,E_53
+validate,104101,101,F,Guillain-Barré syndrome,E_176
+validate,129672,54,M,HIV (initial infection),E_51
+validate,61347,22,M,Influenza,E_50
+validate,113384,28,F,Inguinal hernia,E_129
+validate,109994,31,F,Larygospasm,E_194
+validate,75775,66,M,Localized edema,E_151
+validate,124614,83,M,Myasthenia gravis,E_84
+validate,49224,38,M,Myocarditis,E_175
+validate,14629,65,M,PSVT,E_76
+validate,14761,73,F,Pancreatic neoplasm,E_188
+validate,115910,54,F,Panic attack,E_148
+validate,94081,28,F,Pericarditis,E_217
+validate,131256,51,M,Pneumonia,E_144
+validate,116009,89,M,Possible NSTEMI / STEMI,E_53
+validate,75129,43,F,Pulmonary embolism,E_151
+validate,121676,35,M,Pulmonary neoplasm,E_66
+validate,76501,64,M,SLE,E_53
+validate,67436,6,F,Sarcoidosis,E_9
+validate,70344,49,M,Scombroid food poisoning,E_51
+validate,109011,29,M,Spontaneous pneumothorax,E_53
+validate,113965,43,M,Spontaneous rib fracture,E_203
+validate,74058,37,F,Stable angina,E_53
+validate,84634,19,F,Tuberculosis,E_162
+validate,74312,51,F,URTI,E_53
+validate,121800,49,F,Unstable angina,E_53
+validate,34058,9,M,Viral pharyngitis,E_181
+validate,118178,36,M,Whooping cough,E_166

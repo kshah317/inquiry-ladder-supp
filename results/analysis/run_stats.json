@@ -1,0 +1,150 @@
+{
+ "P0": {
+  "games": 4410,
+  "patients": 294,
+  "calls": 67143,
+  "cost_total_usd": 65.69,
+  "cost_per_patient_all_subteams": 0.2234,
+  "truncated_calls": 0,
+  "truncated_by_model": {},
+  "truncated_share": 0.0,
+  "retries_per_game_by_agent": {
+   "Physician A": 0.25,
+   "Physician B": 0.26,
+   "Physician C": 0.28,
+   "Physician D": 0.26
+  },
+  "abstained_proposals": 36,
+  "final_answers_missing": 0,
+  "pair_question_votes": {
+   "majority": 0.829,
+   "confidence": 0.072,
+   "coin": 0.097,
+   "single": 0.001,
+   "null": 0.001
+  }
+ },
+ "P1": {
+  "games": 4410,
+  "patients": 294,
+  "calls": 66656,
+  "cost_total_usd": 65.12,
+  "cost_per_patient_all_subteams": 0.2215,
+  "truncated_calls": 0,
+  "truncated_by_model": {},
+  "truncated_share": 0.0,
+  "retries_per_game_by_agent": {
+   "Cardiologist": 0.25,
+   "Pulmonologist": 0.23,
+   "Infectious disease specialist": 0.14,
+   "Generalist": 0.22
+  },
+  "abstained_proposals": 21,
+  "final_answers_missing": 0,
+  "pair_question_votes": {
+   "majority": 0.372,
+   "confidence": 0.293,
+   "coin": 0.334,
+   "single": 0.0,
+   "null": 0.0
+  }
+ },
+ "P1Q": {
+  "games": 4410,
+  "patients": 294,
+  "calls": 68575,
+  "cost_total_usd": 45.1,
+  "cost_per_patient_all_subteams": 0.1534,
+  "truncated_calls": 380,
+  "truncated_by_model": {
+   "qwen38_27b": 380
+  },
+  "truncated_share": 0.005541378053226394,
+  "retries_per_game_by_agent": {
+   "Cardiologist": 0.47,
+   "Pulmonologist": 0.37,
+   "Infectious disease specialist": 0.34,
+   "Generalist": 0.48
+  },
+  "abstained_proposals": 116,
+  "final_answers_missing": 1,
+  "pair_question_votes": {
+   "confidence": 0.578,
+   "majority": 0.275,
+   "coin": 0.143,
+   "single": 0.005,
+   "null": 0.0
+  }
+ },
+ "P2": {
+  "games": 4410,
+  "patients": 294,
+  "calls": 70905,
+  "cost_total_usd": 71.9,
+  "cost_per_patient_all_subteams": 0.2445,
+  "truncated_calls": 585,
+  "truncated_by_model": {
+   "qwen38_27b": 153,
+   "qwen36_27b": 430,
+   "gemma4_26b_moe": 2
+  },
+  "truncated_share": 0.008250475988999365,
+  "retries_per_game_by_agent": {
+   "Physician A": 0.21,
+   "Physician B": 1.55,
+   "Physician C": 0.48,
+   "Physician D": 0.41
+  },
+  "abstained_proposals": 221,
+  "final_answers_missing": 1,
+  "pair_question_votes": {
+   "confidence": 0.691,
+   "majority": 0.3,
+   "single": 0.008,
+   "null": 0.0
+  }
+ },
+ "CHECK": {
+  "games": 1470,
+  "patients": 98,
+  "calls": 25031,
+  "cost_total_usd": 18.61,
+  "cost_per_patient_all_subteams": 0.1899,
+  "truncated_calls": 0,
+  "truncated_by_model": {},
+  "truncated_share": 0.0,
+  "retries_per_game_by_agent": {
+   "Cardiologist": 0.2,
+   "Pulmonologist": 0.23,
+   "Physician C": 3.8,
+   "Physician D": 0.2
+  },
+  "abstained_proposals": 1328,
+  "final_answers_missing": 312,
+  "pair_question_votes": {
+   "confidence": 0.583,
+   "coin": 0.11,
+   "majority": 0.145,
+   "single": 0.162,
+   "null": 0.0
+  }
+ },
+ "ANCHOR": {
+  "games": 294,
+  "patients": 294,
+  "calls": 2092,
+  "cost_total_usd": 53.65,
+  "cost_per_patient_all_subteams": 0.1825,
+  "truncated_calls": 422,
+  "truncated_by_model": {
+   "qwen38_max": 422
+  },
+  "truncated_share": 0.20172084130019122,
+  "retries_per_game_by_agent": {
+   "Physician A": 1.12
+  },
+  "abstained_proposals": 84,
+  "final_answers_missing": 13,
+  "pair_question_votes": {}
+ }
+}

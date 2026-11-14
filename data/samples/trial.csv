@@ -1,0 +1,21 @@
+split,row,AGE,SEX,PATHOLOGY,INITIAL_EVIDENCE
+test,54811,64,M,Acute COPD exacerbation / infection,E_66
+test,54007,34,F,Acute otitis media,E_201
+test,351,47,M,Acute rhinosinusitis,E_182
+test,37831,10,F,Allergic sinusitis,E_181
+test,229,13,F,Boerhaave,E_148
+test,62695,17,M,Bronchospasm / acute asthma exacerbation,E_66
+test,11220,32,M,Ebola,E_89
+test,13545,91,F,Epiglottitis,E_190
+test,56439,50,M,GERD,E_53
+test,44784,70,F,Guillain-Barré syndrome,E_93
+test,4762,27,F,HIV (initial infection),E_88
+test,7481,10,M,Influenza,E_94
+test,85051,44,F,Myasthenia gravis,E_65
+test,90953,64,M,Myocarditis,E_217
+test,38938,45,F,Pancreatic neoplasm,E_129
+test,72119,31,F,Pneumonia,E_181
+test,44910,17,F,Scombroid food poisoning,E_82
+test,34204,60,M,Spontaneous rib fracture,E_201
+test,19339,59,F,Stable angina,E_53
+test,58852,30,F,Tuberculosis,E_66
